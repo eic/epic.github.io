@@ -1,0 +1,114 @@
+- name: bressan
+  full: Andrea Bressan
+  email: Andrea.Bressan@ts.infn.it
+  roles: [convener]
+  teams: 
+  
+- name: diefenthaler
+  full: Markus Diefenthaler
+  email: mdiefent@jlab.org
+  roles: [convener]
+  teams: 
+
+- name: wenaus
+  full: Torre Wenaus
+  email: wenaus@gmail.com
+  roles: [convener]
+  teams: 
+
+- name: pinkenburg
+  full: Chris Pinkenburg
+  email: pinkenburg@bnl.gov
+  roles: 
+  teams: [fun4all]
+
+- name: potekhin
+  full: Maxim Potekhin
+  email: potekhin@bnl.gov
+  roles: [collaborative-tools-convener]
+  teams: [collaborative]
+
+- name: lauret
+  full: Jerome Lauret
+  email: jeromel.bnl@gmail.com
+  roles: [sdcc-liaison]
+  teams: 
+
+- name: zhang
+  full: Jinlong Zhang
+  email: jinlong.zhang@stonybrook.edu
+  roles: 
+  teams: [collaborative]
+
+- name: kauder
+  full: Kolja Kauder
+  email: kkauder@gmail.com
+  roles: 
+  teams: [eicsmear]
+
+- name: kiselev
+  full: Alexander Kiselev
+  email: kisselev@mail.desy.de
+  roles: 
+  teams: 
+
+- name: lawrence
+  full: David Lawrence
+  email: davidl@jlab.org
+  roles: 
+  teams: 
+
+- name: romanov
+  full: Dmitry Romanov
+  email: romanov@jlab.org
+  roles: 
+  teams: [jupyter]
+
+- name: furletov
+  full: Sergei Furletov
+  email: furletov@jlab.org
+  roles: 
+  teams: 
+
+- name: furletova
+  full: Yulia Furletova
+  email: yulia@jlab.org
+  roles: 
+  teams: 
+
+- name: adam
+  full: Jaroslav Adam
+  email: jaroslavadam299@gmail.com
+  roles: 
+  teams: 
+
+- name: asai
+  full: Makoto Asai
+  email: asai@slac.stanford.edu
+  roles: 
+  teams: 
+
+- name: ungaro
+  full: Maurizio Ungaro
+  email: maureeungaro@gmail.com
+  roles: 
+  teams: 
+
+- name: brei
+  full: Nathan Brei
+  email: nbrei@jlab.org
+  roles: 
+  teams: 
+
+- name: joosten
+  full: Sylvester Johannes Joosten
+  email: sjoosten@anl.gov
+  roles: 
+  teams: 
+
+- name: deconinck
+  full: Wouter Deconinck
+  email: wdconinc@jlab.org
+  roles: 
+  teams: 
+

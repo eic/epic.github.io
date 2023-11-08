@@ -1,0 +1,111 @@
+- name: EICUG-Software-20190307.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/EICUG-Software-20190307.pdf'
+  title: 'MSEG Initiative, March 2019'
+  author: 'Markus Diefenthaler'
+  venue: 
+  resource: github
+  type: 'presentation'
+  category: software
+  format: direct_link
+
+- name: EICUG-Software-20190411.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/EICUG-Software-20190411.pdf'
+  title: EIC Software Meeting Intro, April 2019
+  author: 'Markus Diefenthaler'
+  venue: 
+  resource: github
+  type: 'presentation'
+  category: software
+  format: direct_link
+
+- name: Romanov-UserInterfaces.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/Romanov-UserInterfaces.pdf'
+  title: 'EIC Software Meeting: User Interfaces, April 2019'
+  author: 'Dmitry Romanov'
+  venue: 
+  resource: github
+  type: 'presentation'
+  category: software
+  format: direct_link
+
+- name: Jung-MCValidation.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/Jung-MCValidation.pdf'
+  title: Validating MC Simulations for the EIC
+  author: 'H.Jung'
+  venue: 
+  resource: github
+  type: 'presentation'
+  category: software
+  format: direct_link
+  
+
+- name: undrus_LXR_NPPS_Sep2020.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/undrus_LXR_NPPS_Sep2020.pdf'
+  title: EIC LXR Code Browser (slides)
+  author: 'A.Undrus'
+  venue: 
+  resource: github
+  type: 'presentation'
+  category: software
+  format: direct_link
+  
+- name: Djangoh_m.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/Djangoh_m.pdf'
+  title: Djangoh Manual
+  author: 'H. Spiesberger'
+  venue: 
+  resource: github
+  type: 'manual'
+  category: software
+  format: direct_link
+
+- name: Djangoh_Updateh-4.6.10.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/Djangoh_Updateh-4.6.10.pdf'
+  title: Djangoh Manual Updates 4.6.8 - 4.6.10
+  author: 'H. Spiesberger'
+  venue: 
+  resource: github
+  type: 'manual'
+  category: software
+  format: direct_link
+
+- name: Lepto-6.5.1.pdf
+  url: 'https://github.com/eic/documents/blob/master/software/general/Lepto-6.5.1.pdf'
+  title: Djangoh Manual Updates 4.6.8 - 4.6.10
+  author: 'G. Ingelman, A.Edin, J. Rathsman'
+  venue: 
+  resource: github
+  type: 'manual'
+  category: software
+  format: direct_link
+
+- name: SWG-Survey-202102.pdf
+  url: 'https://github.com/eic/documents/blob/master/reports/general/SWG-Survey-202102.pdf'
+  title: State of Software Survey Report
+  author: 'W. Deconinck, M. Diefenthaler, R. Duckett, S. Joosten, K. Kauder'
+  venue: 
+  resource: github
+  type: 'report'
+  category: software
+  format: direct_link
+- name: Note-Simulations-BeamEffects.pdf
+  url: 'https://github.com/eic/documents/blob/master/reports/general/Note-Simulations-BeamEffects.pdf'
+  title: Accelerator and Beam Conditions Critical for Physics and Detector Simulations for the Electron-ion Collider
+  author: 'J. Adam, E.-C.Aschenauer, M. Diefenthaler, Y. Furletova, J. Huang, A. Jentsch, B. Page'
+  venue: 
+  resource: github
+  type: 'report'
+  category: software
+  format: direct_link
+- name: Note-Simulations-BeamEffects-Movie.mp4
+  url: 'https://github.com/eic/documents/blob/master/reports/general/Note-Simulations-BeamEffects-Movie.mp4'
+  title: Visualization of the electron and proton bunch movement during their interaction (18x275 GeV)
+  author: 'J. Adam'
+  venue: 
+  resource: github
+  type: 'report'
+  category: software
+  format: direct_link
+
+
+

@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>{% include layouts/header.html %}</head>
+<body>
+<!-- div class="main-container mx-auto" style="width: 900px;" -->
+<div class="container-fluid mx-auto" style="min-width:1200px;padding-right:100px;padding-left:200px;">
+<!-- div class="container-fluid mx-auto" style="min-width:1100px;padding-right:10px;padding-left:200px;" -->
+{% include layouts/navbar.html %}
+<!-- vertical spacing to allow room for the top navbar -->    
+&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>
+
+{{ content }}
+</div>    
+{% include layouts/scripts.html %}
+    
+</body>
+</html>

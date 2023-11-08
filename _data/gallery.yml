@@ -1,0 +1,29 @@
+- name: beast_opera_map
+  path: '/assets/images/software/beast/beast-opera-map.png'
+  title: 'Beast Magnetic Field Map'
+  type: diagram
+  
+- name: news_banner
+  path: '/assets/images/site/EICUG-SWG-News-Banner.png'
+  title: 'EICUG SWG News Banner'
+  type: logo
+  
+- name: beagle_design
+  path: '/assets/images/software/DpmjetHybrid_MonteCarlo_generator_design.png'
+  title: 'BeAGLE generator concept'
+  type: diagram
+
+- name: beagleAsciiLogo
+  path: '/assets/images/software/beagleAsciiLogo.png'
+  title: 'BeAGLE printout'
+  type: diagram
+
+- name: east_logo
+  path: '/assets/images/software/east/east-logo.jpg'
+  title: 'Project eAST Logo'
+  type: logo
+
+- name: principles
+  path: '/assets/images/software/principles.png'
+  title: 'Statement of Software Principles Title'
+  type: logo

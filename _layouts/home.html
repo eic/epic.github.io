@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-md-10 blog-main">
+
+    <hr>
+    <center>
+      <div class=row>
+	
+        <div class="col-md-5"><img src="{{ site.splash | relative_url }}" class="navbar navbar-dark bg-dark"  style="width:100%;height:auto"/></div>
+	
+        <div class="col-md-5">
+          <p class="lead">
+	    <h4>Purpose of this site</h4>
+	    This is the main portal to the EIC software, repositories, documentation and resources.
+	    It is developed and maintained by the EICUG and the ePIC Collaboration.
+	    <!-- 
+	    <hr/>
+	    Questions? Contact the EICUG Software Working Group Conveners:<br/><a href="mailto:eicug-software-conveners@eicug.org">eicug-software-conveners@eicug.org</a>
+            -->
+	  </p>
+	</div> <!-- class md5 -->
+      </div> <!-- class row -->
+
+    </center> <!-- class sm12 blog main -->
+    <hr/>
+    {% if site.display_news %}
+    {% include news/homenews.md %}
+    {% endif %}
+    <hr/>
+
+    <table width="100%"><tr>
+<td><div style="text-align:left;">
+    &copy;2023 EIC User Group and ePIC Collaboration
+</div></td>
+
+<td><div style="text-align:right;">
+  <em>Site built at {{ site.time }}</em>
+</div></td>
+    </tr></table>
+
+  </div> <!-- class row -->

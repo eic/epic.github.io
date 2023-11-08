@@ -1,0 +1,148 @@
+name: The EIC Software Website
+title: The EIC Software Website
+description: The EIC Software Website
+url: https://eic.github.io
+#
+excerpt_separator: <!--more-->
+timezone: America/New_York
+highlighter: rouge
+#
+markdown: kramdown
+future: true
+exclude: [vendor]
+
+##################################################################################
+# Important if we are not serving from the top folder - baseurl: /web            #
+# In that case, please make sure you use the "relative_path" directive           #
+# everywhere you include various site URLs in your pages.                        #
+#                                                                                #
+# Currently serving from the top folder i.e.                                     #
+# in this case this does not apply until further notice.                         #
+##################################################################################
+
+# Custom helper variables:
+blank: 'target="_blank"'
+
+
+# Layout
+tablepadding: ' '
+
+# Decorative elements
+eic_logo: /assets/images/site/EIClogo_small.png
+splash: /assets/images/site/ion-collision-xparent-cropped.png
+
+# Icons:
+home_icon: /assets/images/site/icons/house-32.png
+external_icon: /assets/images/site/icons/external-link-32.png
+
+software_icon: /assets/images/site/icons/console-32.png
+resources_icon: /assets/images/site/icons/cog-32.png
+#activities_icon: /assets/images/site/icons/today-32.png
+activities_icon: /assets/images/site/icons/light-bulb-5-32.png
+organization_icon: /assets/images/site/icons/flow-chart-32.png
+documentation_icon: /assets/images/site/icons/literature-32.png
+about_icon: /assets/images/site/icons/light-bulb-5-32.png
+
+
+# Development:
+display_news: yes
+#
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+#
+collections:
+  software:
+    output: true
+    permalink: /software/:title.html
+  resources:
+    output: true
+    permalink: /resources/:title.html
+  activities:
+    output: true
+    permalink: /activities/:title.html
+  organization:
+    output: true
+    permalink: /organization/:title.html
+  documentation:
+    output: true
+    permalink: /documentation/:title.html
+  about:
+    output: true
+    permalink: /about/:title.html#
+#
+#
+name: The EIC Software Website
+title: The EIC Software Website
+description: The EIC Software Website
+url: https://eic.github.io
+#
+excerpt_separator: <!--more-->
+timezone: America/New_York
+highlighter: rouge
+#
+markdown: kramdown
+future: true
+exclude: [vendor]
+
+##################################################################################
+# Important if we are not serving from the top folder - baseurl: /web            #
+# In that case, please make sure you use the "relative_path" directive           #
+# everywhere you include various site URLs in your pages.                        #
+#                                                                                #
+# Currently serving from the top folder i.e.                                     #
+# in this case this does not apply until further notice.                         #
+##################################################################################
+
+# Custom helper variables:
+blank: 'target="_blank"'
+
+
+# Layout
+tablepadding: ' '
+
+# Decorative elements
+eic_logo: /assets/images/site/EIClogo_small.png
+splash: /assets/images/site/ion-collision-xparent-cropped.png
+
+# Icons:
+home_icon: /assets/images/site/icons/house-32.png
+external_icon: /assets/images/site/icons/external-link-32.png
+software_icon: /assets/images/site/icons/console-32.png
+resources_icon: /assets/images/site/icons/cog-32.png
+activities_icon: /assets/images/site/icons/light-bulb-5-32.png
+organization_icon: /assets/images/site/icons/flow-chart-32.png
+documentation_icon: /assets/images/site/icons/literature-32.png
+about_icon: /assets/images/site/icons/light-bulb-5-32.png
+
+
+# Development:
+display_news: yes
+#
+plugins:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+#
+collections:
+  software:
+    output: true
+    permalink: /software/:title.html
+  resources:
+    output: true
+    permalink: /resources/:title.html
+  activities:
+    output: true
+    permalink: /activities/:title.html
+  organization:
+    output: true
+    permalink: /organization/:title.html
+  documentation:
+    output: true
+    permalink: /documentation/:title.html
+  about:
+    output: true
+    permalink: /about/:title.html

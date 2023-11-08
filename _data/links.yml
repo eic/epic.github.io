@@ -1,0 +1,129 @@
+# Misc meetings
+- name: eic_software_meeting_20190710
+  url: 'https://indico.bnl.gov/event/6336/'
+
+- name: eic_software_meeting_20190520
+  url: 'https://agenda.infn.it/event/17249/'
+
+- name: 'eic_handbook_v1.2'
+  url: 'http://www.eicug.org/web/sites/default/files/EIC_HANDBOOK_v1.2.pdf'
+
+- name: 'detector_matrix'
+  url: 'https://physdiv.jlab.org/DetectorMatrix/'
+
+# Cloud resources
+- name: HEPData
+  url: 'https://www.hepdata.net/'
+
+- name: Inspire
+  url: 'https://inspirehep.net/'
+
+# Org links
+- name: npps
+  url: 'https://npps.bnl.gov/'
+
+- name: swg_indico
+  url: 'https://indico.bnl.gov/category/301/'
+
+- name: round_table
+  url: 'https://www.jlab.org/software-and-computing-round-table'
+
+- name: eic_software_drupal
+  url: 'http://www.eicug.org/web/content/eic-software'
+
+- name: hsf
+  url: 'http://hepsoftwarefoundation.org/'
+
+# Cloud storage
+- name: petrel
+  url: 'https://petrel.alcf.anl.gov/'
+
+- name: bnlbox_cli
+  url: 'https://racfjira.atlassian.net/wiki/spaces/BBD/pages/604307461/How+To+Access+BNL+Box+From+The+Command+Line'
+
+- name: minio_download
+  url: 'https://dl.min.io/client/mc/release/linux-amd64/'
+
+# Git land
+- name: git
+  url: 'https://git-scm.com'
+
+- name: git-book
+  url: 'https://git-scm.com/book/en/v2'
+
+- name: git-lesson
+  url: 'https://swcarpentry.github.io/git-novice/'
+
+- name: github
+  url: 'https://github.com/eic/'
+
+- name: github_pages
+  url: 'https://pages.github.com/'
+
+- name: github_adding_topics
+
+  url: 'https://help.github.com/en/enterprise/2.15/user/articles/classifying-your-repository-with-topics#adding-topics-to-your-repository'
+
+- name: github_site
+  url: 'https://github.com/eic/eic.github.io'
+
+- name: jupyterhub.jlab.org
+  url: 'https://jupyterhub.jlab.org'
+
+# Jekyll, Bootstrap and related tools
+- name: Jekyll
+  url: 'http://jekyllrb.com/'
+
+- name: ruby_downloads
+  url: 'https://www.ruby-lang.org/en/downloads/'
+
+- name: rubygems_downloads
+  url: 'https://rubygems.org/pages/download'
+
+- name: Liquid
+  url: 'https://shopify.github.io/liquid/'
+
+- name: Bootstrap
+  url: 'http://getbootstrap.com/'
+
+# Misc tools
+
+- name: rivet
+  url: 'https://rivet.hepforge.org/'
+
+- name: automake
+  url: 'https://www.gnu.org/software/automake/'
+
+- name: autoconf
+  url: 'https://www.gnu.org/software/autoconf/'
+
+- name: libtool
+  url: 'https://www.gnu.org/software/libtool/'
+
+- name: lxr
+  url: 'https://eic-code-browser.sdcc.bnl.gov/lxr/source'
+
+- name: globus
+  url: 'https://globus.org'
+
+
+# eAST
+- name: east
+  url: 'https://eic.github.io/east/'
+
+# MC
+- name: topeg
+  url: 'https://gitlab.in2p3.fr/dupre/nopeg#the-orsay-perugia-event-generator-topeg'
+
+- name: estarlight
+  url: 'https://github.com/eic/estarlight#estarlight'
+
+- name: sartre
+  url: 'https://sartre.hepforge.org'
+
+- name: pepsi_paper
+  url: 'https://wiki.bnl.gov/eic/upload/PEPSI.paper.pdf'
+
+- name: epic
+  url: 'https://pawelsznajder.github.io/epic/'
+

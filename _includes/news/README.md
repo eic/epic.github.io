@@ -1,0 +1,1 @@
+# Layouts for displaying news
