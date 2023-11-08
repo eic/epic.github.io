@@ -10,19 +10,15 @@
 
 ### Software
 #
-- name: software
-  full: Software
+- name: Public
+  full: Public
   submenus:
 
 ### Simulations
 #
-    - name: simulations
-      label: yes
-      full: Simulations
-      div: yes
-    
-    - name: mcgen
-      full: Monte Carlo Event Generators
+   
+    - name: overview
+      full: Overview
 
     - name: east
       full: Project eAST
@@ -113,13 +109,13 @@
 
 ### About
 #
-- name: about
-  full: About
-  right: yes
-  submenus:
-    - name: site
-      full: Website Information
-      exclude: yes
-
-    - name: howto
-      full: Website How-To
+#- name: about
+#  full: About
+#  right: yes
+#  submenus:
+#    - name: site
+##      full: Website Information
+#      exclude: yes
+#
+#    - name: howto
+#      full: Website How-To
