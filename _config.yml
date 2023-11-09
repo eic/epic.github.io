@@ -40,7 +40,7 @@ public_icon: /assets/images/site/icons/geography-32.png
 physics_icon: /assets/images/site/icons/atomic-32.png
 
 software_icon: /assets/images/site/icons/console-32.png
-resources_icon: /assets/images/site/icons/cog-32.png
+detector_icon: /assets/images/site/icons/cog-32.png
 #activities_icon: /assets/images/site/icons/today-32.png
 activities_icon: /assets/images/site/icons/light-bulb-5-32.png
 organization_icon: /assets/images/site/icons/flow-chart-32.png
@@ -64,12 +64,12 @@ collections:
   physics:
     output: true
     permalink: /physics/:title.html
-  activities:
+  detector:
     output: true
-    permalink: /activities/:title.html
-  organization:
+    permalink: /detector/:title.html
+  sc:
     output: true
-    permalink: /organization/:title.html
+    permalink: /sc/:title.html
   documentation:
     output: true
     permalink: /documentation/:title.html

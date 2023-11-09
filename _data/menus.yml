@@ -77,8 +77,8 @@
 
 ### Activities
 #
-- name: activities
-  full: Activities
+- name: detector
+  full: Detector
   submenus:
     - name: overview
       full: Overview
@@ -94,8 +94,8 @@
       
 ### Organization
 #
-- name: organization
-  full: Organization
+- name: sc
+  full: S&C
   submenus:
   #  - name: swg
   #    full: Software Working Group

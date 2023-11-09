@@ -2,8 +2,8 @@
 
 {% when "public" %}      {% assign theCollection=site.public %}    {% assign icon=site.public_icon %}
 {% when "physics" %}     {% assign theCollection=site.physics %}   {% assign icon=site.physics_icon %}
-{% when "activities" %}  {% assign theCollection=site.activities %}  {% assign icon=site.activities_icon %}
-{% when "organization" %}{% assign theCollection=site.organization %}{% assign icon=site.organization_icon %}
+{% when "detector" %}    {% assign theCollection=site.detector %}  {% assign icon=site.detector_icon %}
+{% when "sc" %}          {% assign theCollection=site.sc %}        {% assign icon=site.software_icon %}
 {% when "documentation" %}{% assign theCollection=site.documentation %}{% assign icon=site.documentation_icon %}
 {% when "about" %}       {% assign theCollection=site.about %}            {% assign icon=site.about_icon %}
 
