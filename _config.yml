@@ -35,9 +35,10 @@ splash: /assets/images/site/1600px-EPIC-logo_black_transparent.png
 home_icon: /assets/images/site/icons/house-32.png
 external_icon: /assets/images/site/icons/external-link-32.png
 
-# New icons added
+# New icons added for ePIC
 public_icon: /assets/images/site/icons/geography-32.png
 physics_icon: /assets/images/site/icons/atomic-32.png
+meeting_icon: /assets/images/site/icons/meeting-point-32.png
 
 software_icon: /assets/images/site/icons/console-32.png
 detector_icon: /assets/images/site/icons/cog-32.png
@@ -70,9 +71,9 @@ collections:
   sc:
     output: true
     permalink: /sc/:title.html
-  documentation:
+  meetings:
     output: true
-    permalink: /documentation/:title.html
+    permalink: /meetings/:title.html
   about:
     output: true
     permalink: /about/:title.html#

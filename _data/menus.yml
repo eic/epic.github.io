@@ -132,18 +132,20 @@
 
 #       div: yes
 
-### Documentation
+### MEETINGS
 #
-- name: documentation
-  full: Get Started
+- name: meetings
+  full: Meetings
   submenus:
 
-    - name: landingpage
-      full: Landing Page
+    - name: meetings
+      full: ePIC meetings
 
-    - name: faq
-      full: FAQ
+    - name: conf
+      full: Conferences and Workshops
 
+    - name: reviews
+      full: Reviews
 
 #------------------------------------------------------------------------------
 ### ATTIC -- kept for reference
