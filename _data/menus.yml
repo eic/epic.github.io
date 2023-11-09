@@ -47,6 +47,16 @@
     - name: inclusive
       full: Inclusive
 
+    - name: semi_inclusive
+      full: Semi Inclusive
+
+    - name: exclusive_diffraction
+      full: Exclusive and Diffraction
+      
+    - name: jets_hf
+      full: Jets and Heavy Flavor
+
+
     - name: blank
       label: yes
       full: ' '
