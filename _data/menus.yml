@@ -60,10 +60,6 @@
   full: Physics
 
   submenus:
-    - name: separator
-      label: yes
-      full: ' '
-
     - name: inclusive
       full: Inclusive
 
@@ -147,6 +143,40 @@
     - name: reviews
       full: Reviews
 
+### PUBLICATIONS
+#
+- name: publications
+  full: Publications
+  submenus:
+    - name: papers
+      full: Papers
+
+    - name: analysis_notes
+      full: Analysis Notes
+
+    - name: theses
+      full: Theses
+
+    - name: reports
+      full: Reports
+
+    - name: tech
+      full: Technical Documents
+
+### NEWS
+#
+- name: news
+  full: News
+  submenus:
+    - name: announcements
+      full: Announcements
+
+    - name: newsletter
+      full: ePIC Newsletter
+
+    - name: press
+      full: ePIC in the Press
+      
 #------------------------------------------------------------------------------
 ### ATTIC -- kept for reference
 #

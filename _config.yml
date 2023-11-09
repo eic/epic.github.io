@@ -39,13 +39,14 @@ external_icon: /assets/images/site/icons/external-link-32.png
 public_icon: /assets/images/site/icons/geography-32.png
 physics_icon: /assets/images/site/icons/atomic-32.png
 meeting_icon: /assets/images/site/icons/meeting-point-32.png
+news_icon: /assets/images/site/icons/google-news-32.png
 
 software_icon: /assets/images/site/icons/console-32.png
 detector_icon: /assets/images/site/icons/cog-32.png
 #activities_icon: /assets/images/site/icons/today-32.png
 activities_icon: /assets/images/site/icons/light-bulb-5-32.png
 organization_icon: /assets/images/site/icons/flow-chart-32.png
-documentation_icon: /assets/images/site/icons/literature-32.png
+literature_icon: /assets/images/site/icons/literature-32.png
 about_icon: /assets/images/site/icons/light-bulb-5-32.png
 
 
@@ -74,7 +75,10 @@ collections:
   meetings:
     output: true
     permalink: /meetings/:title.html
-  about:
+  publications:
     output: true
-    permalink: /about/:title.html#
+    permalink: /publications/:title.html
+  news:
+    output: true
+    permalink: /news/:title.html
 #
