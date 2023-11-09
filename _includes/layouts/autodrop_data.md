@@ -1,6 +1,6 @@
 {% case include.what %}
 
-{% when "software" %}    {% assign theCollection=site.software %}    {% assign icon=site.software_icon %}
+{% when "public" %}      {% assign theCollection=site.public %}    {% assign icon=site.software_icon %}
 {% when "resources" %}   {% assign theCollection=site.resources %}   {% assign icon=site.resources_icon %}
 {% when "activities" %}  {% assign theCollection=site.activities %}  {% assign icon=site.activities_icon %}
 {% when "organization" %}{% assign theCollection=site.organization %}{% assign icon=site.organization_icon %}
