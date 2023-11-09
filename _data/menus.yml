@@ -107,21 +107,29 @@
 - name: sc
   full: S&C
   submenus:
-  #  - name: swg
-  #    full: Software Working Group
+    - name: sc_overview
+      full: Overview of Software and Computing
 
-  #  - name: communication
-  #    full: Communication
+    - name: tutorials
+      full: Tutorials
 
-  #  - name: events
-  #    full: Meetings and Events
+    - name: reco
+      full: Reconstruction
 
-    - name: youtube
-      full: Our YouTube Channel
-      link: https://www.youtube.com/channel/UCXc9WfDKdlLXoZMGrotkf7w
+    - name: simu
+      full: Simulations
 
-#   - name: join
-#     full: Get Involved
+    - name: projects
+      full: Projects
+
+    - name: separator
+      label: yes
+      full: ' '
+
+    - name: resources
+      full: Resources
+
+
 #       div: yes
 
 ### Documentation
