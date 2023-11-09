@@ -35,6 +35,10 @@ splash: /assets/images/site/1600px-EPIC-logo_black_transparent.png
 home_icon: /assets/images/site/icons/house-32.png
 external_icon: /assets/images/site/icons/external-link-32.png
 
+# New icons added
+public_icon: /assets/images/site/icons/geography-32.png
+physics_icon: /assets/images/site/icons/atomic-32.png
+
 software_icon: /assets/images/site/icons/console-32.png
 resources_icon: /assets/images/site/icons/cog-32.png
 #activities_icon: /assets/images/site/icons/today-32.png
