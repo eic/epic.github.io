@@ -31,8 +31,8 @@
 #
 # note that submenus do not include a few of the *.md stubs found in the folder
 # - these pages are kept for archiving purposes
-- name: resources
-  full: Resources
+- name: physics
+  full: Physics
 
   submenus:
 
@@ -40,18 +40,18 @@
       label: yes
       full: General
     
-    - name: overview
-      full: Computing Resources
+    - name: inclusive
+      full: Inclusive
 
-    - name: simulations
-      full: Accelerator and Beam Conditions
+#    - name: simulations
+#      full: Accelerator and Beam Conditions
 
-    - name: storage
-      label: yes
-      full: Storage
+#    - name: storage
+#      label: yes
+#      full: Storage
 
-    - name: storage
-      full: NextCloud/S3
+#    - name: storage
+#      full: NextCloud/S3
 
 ### Activities
 #

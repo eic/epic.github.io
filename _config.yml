@@ -61,9 +61,9 @@ collections:
   public:
     output: true
     permalink: /public/:title.html
-  resources:
+  physics:
     output: true
-    permalink: /resources/:title.html
+    permalink: /physics/:title.html
   activities:
     output: true
     permalink: /activities/:title.html
