@@ -10,26 +10,23 @@
 
 ### Software
 #
-- name: Public
+- name: public
   full: Public
   submenus:
 
-### Simulations
-#
-   
     - name: overview
       full: Overview
 
-    - name: east
-      full: Project eAST
+    - name: phonebook
+      full: Phone Book
+      link: https://phonebook.sdcc.bnl.gov/eic/client/
 
-    - name: infrastructure
-      label: yes
-      full: Infrastructure
-    
-    - name: github
-      full: GitHub for the EICUG
-    
+    - name: coming
+      full: Coming to BNL
+
+    - name: early
+      full: Early Career
+
 ### Resources
 #
 # note that submenus do not include a few of the *.md stubs found in the folder

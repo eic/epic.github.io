@@ -54,7 +54,7 @@ plugins:
 
 #
 collections:
-  software:
+  public:
     output: true
     permalink: /public/:title.html
   resources:
