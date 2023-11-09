@@ -90,10 +90,18 @@
 #
 - name: detector
   full: Detector
+  
   submenus:
     - name: technical_coordination
       full: Technical Coordination
-      
+
+    - name: dsc
+      full: DSCs
+
+    - name: cross_cutting
+      full: Cross-Cutting WGs
+
+
 ### Software and Computing (S&C)
 #
 - name: sc
