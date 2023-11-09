@@ -36,12 +36,24 @@
 
   submenus:
 
-    - name: general
+    # - name: general
+    #   label: yes
+    #   full: General
+
+    - name: blank
       label: yes
-      full: General
-    
+      full: ' '
+
     - name: inclusive
       full: Inclusive
+
+    - name: blank
+      label: yes
+      full: ' '
+
+    - name: analysis_coordination
+      full: Analysis Coordination
+
 
 #    - name: simulations
 #      full: Accelerator and Beam Conditions
