@@ -10,7 +10,11 @@
 
 {% endcase %}
 
+{% if include.public %}
+{% assign the_menu = site.data.menus_public | where: "name", include.what | first %}
+{% else %}
 {% assign the_menu = site.data.menus | where: "name", include.what | first %}
+{% endif %}
 
 <li class="nav-item dropdown px-2">
 {% if icon.size > 0 %}
@@ -45,4 +49,5 @@
 {% endfor %}
 
 </div>
+{{ include.public }}
 </li>

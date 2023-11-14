@@ -28,7 +28,7 @@ blank: 'target="_blank"'
 tablepadding: ' '
 
 # Decorative elements
-eic_logo: /assets/images/site/EPIC-logo_white_transparent_64h.png
+epic_logo: /assets/images/site/EPIC-logo_white_transparent_64h.png
 splash: /assets/images/site/1600px-EPIC-logo_black_transparent.png
 
 # Icons:

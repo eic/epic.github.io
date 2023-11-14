@@ -14,13 +14,13 @@
 	
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
-	{% for menu in site.data.menus %}
+	{% for menu in site.data.menus_public %}
 	
   {% if menu.exclude %}{% continue %}{% endif %}
 
   {% if menu.right %}</ul><ul class="navbar-nav  text-right"><li>
 
-      {% include layouts/autodrop_data.md what=menu.name %}
+      {% include layouts/autodrop_data.md what=menu.name public='yes' %}
       <a class="navbar-brand mr-auto" href="{{ 'https://github.com/eic' | relative_url }}" target="_blank">
       <img src="{{ '/assets/images/site/GitHub-Mark-Light-32px.png' | relative_url }}" height="32" ></a></li>
 
