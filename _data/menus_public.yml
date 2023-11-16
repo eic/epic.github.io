@@ -56,112 +56,11 @@
 
 
 ### PHYSICS
-- name: physics
-  full: Physics...
+- name: coll
+  full: For Collaborators
+  #link: foo
 
   submenus:
-    - name: inclusiveo
+    - name: inclusive
       full: Inclusive
-      exclude: yes
-
-    - name: semi_inclusive
-      full: Semi Inclusive
-
-    - name: exclusive_diffraction
-      full: Exclusive and Diffraction
-      
-    - name: jets_hf
-      full: Jets and Heavy Flavor
-
-    - name: bsm_ew
-      full: BSM & EW
-
-    - name: separator
-      label: yes
-      full: ' '
-
-    - name: analysis_coordination
-      full: Analysis Coordination
-
-### DETECTOR
-#
-- name: detector
-  full: Detector
-
-  submenus:
-    - name: technical_coordination
-      full: Technical Coordination
-
-    - name: dsc
-      full: DSCs
-
-    - name: cross_cutting
-      full: Cross-Cutting WGs
-
-
-### Software and Computing (S&C)
-#
-- name: sc
-  full: S&C
-  submenus:
-    - name: sc_overview
-      full: Overview of Software and Computing
-
-    - name: tutorials
-      full: Tutorials
-
-    - name: reco
-      full: Reconstruction
-
-    - name: simu
-      full: Simulations
-
-    - name: projects
-      full: Projects
-
-    - name: separator
-      label: yes
-      full: ' '
-
-    - name: resources
-      full: Resources
-
-
-#       div: yes
-
-### MEETINGS
-#
-- name: meetings
-  full: Meetings
-  submenus:
-
-    - name: meetings
-      full: ePIC meetings
-
-    - name: conf
-      full: Conferences and Workshops
-
-    - name: reviews
-      full: Reviews
-
-### PUBLICATIONS
-#
-- name: publications
-  full: Publications
-  submenus:
-    - name: papers
-      full: Papers
-
-    - name: analysis_notes
-      full: Analysis Notes
-
-    - name: theses
-      full: Theses
-
-    - name: reports
-      full: Reports
-
-    - name: tech
-      full: Technical Documents
-
-
+      link: https://calendar.google.com/calendar/u/0/embed?src=eicugadmin@eicug.org&ctz=America/New_York
