@@ -1,0 +1,39 @@
+---
+layout: public
+---
+<div class="row">
+  <div class="col-md-10 blog-main">
+
+    <hr>
+    <center>
+      <div class=row>
+	
+        <div class="col-md-5"><img src="{{ site.splash | relative_url }}"   style="width:100%;height:auto"/></div>
+	
+        <div class="col-md-5">
+          <p class="lead">
+	    <h4>WORK IN PROGRESS! This is the home of the future public website of the ePIC Collaboration.</h4>
+	    Pardon the dust.
+	  <hr/>
+	  </p>
+	</div> <!-- class md5 -->
+      </div> <!-- class row -->
+
+    </center> <!-- class sm12 blog main -->
+
+    {% if site.display_news %}
+    {% include news/homenews.md %}
+    {% endif %}
+
+
+    <table width="100%"><tr>
+<td><div style="text-align:left;">
+    &copy;2023 ePIC Collaboration
+</div></td>
+
+<td><div style="text-align:right;">
+  <em>Site built at {{ site.time }}</em>
+</div></td>
+    </tr></table>
+
+  </div> <!-- class row -->

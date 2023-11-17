@@ -56,9 +56,9 @@
 
 
 ### PHYSICS
-- name: coll
+- name: internal
   full: For Collaborators
-  #link: foo
+  link: "/index-internal.html"
 
   submenus:
     - name: inclusive

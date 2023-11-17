@@ -10,8 +10,8 @@
 
 ### PUBLIC
 #
-- name: public
-  full: Public
+- name: collaboration
+  full: Collaboration
   submenus:
 
     - name: overview

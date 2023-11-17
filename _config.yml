@@ -66,6 +66,9 @@ collections:
   public:
     output: true
     permalink: /public/:title.html
+  collaboration:
+    output: true
+    permalink: /collaboration/:title.html
   physics:
     output: true
     permalink: /physics/:title.html

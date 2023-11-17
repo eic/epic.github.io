@@ -9,7 +9,7 @@
 {% when "news" %}        {% assign theCollection=site.news %}      {% assign icon=site.news_icon %}
 
 
-{% when "coll" %}    {% assign theCollection=site.meetings %}  {% assign icon=site.meeting_icon %}
+{% when "collaboration" %}    {% assign theCollection=site.collaboration %}  {% assign icon=site.organization_icon %}
 
 {% endcase %}
 
@@ -23,8 +23,9 @@
 
 <li class="nav-item dropdown px-2">
 
-{% if include.link %}
-<a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #fff;">fff</a>
+{% if include.what=="internal" %}
+{% assign internalLink=include.link | relative_url %}
+<a class="nav-link"  href="{{internalLink}}" id="navbarDropdown"  style="color: #fff;">For Collaborators</a>
 {% else %}
 {% if icon.size > 0 %}
 <a class="nav-link dropdown-toggle"  href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #fff;">{{ the_menu.full }}&nbsp;&nbsp;<img src="{{ icon | relative_url }}" height="16" width="16"></a>
