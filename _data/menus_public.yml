@@ -13,54 +13,14 @@
 - name: public
   full: Public
   submenus:
-
     - name: overview
       full: Overview
 
-    - name: phonebook
-      full: Phone Book
-      link: https://phonebook.sdcc.bnl.gov/eic/client/
+    - name: science
+      full: ePIC Science
 
-    - name: coming
-      full: Coming to BNL
-
-    - name: calendar
-      full: Calendar
-      link: https://calendar.google.com/calendar/u/0/embed?src=eicugadmin@eicug.org&ctz=America/New_York
-
-    - name: separator
-      label: yes
-      full: ' '
-
-    - name: early
-      full: Early Career
-
-    - name: outreach
-      full: Outreach
-
-    - name: diversity
-      full: Diversity Office
-
-    - name: committees
-      full: Committees
-
-    - name: council
-      full: Collaboration Council
-
-    - name: separator
-      label: yes
-      full: ' '
-
-    - name: collaborative_tools
-      full: Collaborative Tools
-
-
-### PHYSICS
+### INTERNAL
 - name: internal
   full: For Collaborators
   link: "/index-internal.html"
 
-  submenus:
-    - name: inclusive
-      full: Inclusive
-      link: https://calendar.google.com/calendar/u/0/embed?src=eicugadmin@eicug.org&ctz=America/New_York
