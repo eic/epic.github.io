@@ -1,8 +1,8 @@
-#########################################################################
-#                                                                       #
-# This is the menu definition file for the ePIC Collaboration website   #
-#                                                                       #
-#########################################################################
+################################################################################
+#                                                                              #
+# This is the menu definition file for the public ePIC Collaboration website   #
+#                                                                              #
+################################################################################
 #                                                                       #
 # Each section corresponds to a dropdown menu in the top navigation bar #                                               #
 #                                                                       #
@@ -13,11 +13,18 @@
 - name: public
   full: Public
   submenus:
+
     - name: overview
       full: Overview
 
     - name: science
       full: ePIC Science
+
+    - name: detector
+      full: Our Detector
+
+    - name: press
+      full: Media/Press
 
 ### INTERNAL
 - name: internal
