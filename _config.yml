@@ -53,6 +53,10 @@ news_icon: /assets/images/site/icons/google-news-32.png
 #################################################################
 
 
+# Design document
+
+design_document: /assets/docs/design-document.pdf
+
 # Development:
 display_news: no
 #
