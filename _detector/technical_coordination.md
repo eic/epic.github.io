@@ -4,6 +4,8 @@ name: technical_coordination
 layout: default
 ---
 
-{% include layouts/title.md %}
+<h2>Technical Coordination</h2>
 
-#### TBD
+
+* Technical Coordinator (Interim): Silvia Dalla Torre <Silvia.DallaTorre@cern.ch>
+* Deputy Technical Coordinators: Prakhar Garg <prakhar.garg@yale.edu>, Oskar Hartbrich <hartbricho@ornl.gov>, Matt Posik <posik@temple.edu>
