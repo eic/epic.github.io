@@ -8,3 +8,6 @@ layout: default
 {% include layouts/title.md %}
 
 TBD: ePIC _Meetings_.
+
+* item 1
+* item 2
