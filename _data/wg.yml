@@ -1,0 +1,10 @@
+- name:               exclusive_diffraction
+  description:        'Exclusive and Diffraction'
+  mission_statement:  'The responsibilities of the Exclusive, Diffraction, and Tagging working group are to evaluate the performance of the ePIC detector as it relates to exclusive, diffractive, or tagging processes. We are charged with the development of a set of performance and physics benchmarks.'
+  conveners:          rachel_montgomery, raphael_dupre
+  list: 'eic-projdet-excldiff-l@lists.bnl.gov'
+  list_sub: 'https://lists.bnl.gov/mailman/listinfo/eic-projdet-excldiff-l'
+  indico: 'https://indico.bnl.gov/category/419/'
+  mattermost: 'https://chat.epic-eic.org/main/channels/phys-exclusive-diffractive'
+  wiki: 'https://wiki.bnl.gov/EPIC/index.php?title=ExclusiveDiffractionTagging'
+  meetings: 'Monday at 12:00 pm ET (bi-weekly)'
