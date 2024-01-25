@@ -6,9 +6,15 @@ Suggestions are welcome.
 
 ## Current work items
 
-Recently updated:
+### New features
+
+WG descriptions are now kept in the file _wg.yml_ in the *_data_* folder
+
+### Content recently updated:
 * Committees -- _Conferences and Talks_ updated
 * Physics
    * _Semi-Inclusive_
    * _Exclusive and Diffraction_
+   * _Jets and HF_
+   * _BSM and EW_
 

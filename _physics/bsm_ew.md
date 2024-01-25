@@ -1,10 +1,8 @@
 ---
-title: BSM & EW
+title: BSM and EW
+description: BSM and EW
 name: bsm_ew
 layout: default
 ---
 
-{% include layouts/title.md %}
-
-#### TBD: BSM and EW
-
+{% include layouts/wg_top.md %}

@@ -1,3 +1,6 @@
+# There is not predefined order here. We are adding conveners on top, to feed the WG pages with contact info
+
+# exclusive_diffraction
 - name: rachel_montgomery
   full: Rachel Montgomery
   email: rachel.montgomery@glasgow.ac.uk
@@ -10,6 +13,46 @@
   roles: [convener]
   teams: 
 
+# semi_includsive
+- name: stefan_diehl
+  full: Stefan Diehl
+  email: stefan.diehl@exp2.physik.uni-giessen.de
+  roles: [convener]
+  teams: 
+
+- name: charlotte_van_hulse
+  full: Charlotte Van Hulse
+  email: vanhuls@mail.cern.ch
+  roles: [convener]
+  teams:
+
+# jets_hf
+- name: olga_evdokimov
+  full: Olga Evdokimov
+  email: evdolga@uic.edu
+  roles: [convener]
+  teams: 
+
+- name: brian_page
+  full: Brian Page
+  email: bpage@bnl.gov
+  roles: [convener]
+  teams:
+
+# bsm_ew
+- name: michael_nycz
+  full: Michael Nycz
+  email: mnycz@jlab.org
+  roles: [convener]
+  teams: 
+
+- name: ciprian_gal
+  full: Ciprian Gal
+  email: ciprian@jlab.org
+  roles: [convener]
+  teams:
+
+# Other entries
 - name: bressan
   full: Andrea Bressan
   email: Andrea.Bressan@ts.infn.it
