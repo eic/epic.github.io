@@ -8,8 +8,10 @@ layout: default
 
 #### Overview
 
-* The ePIC Collaboration is currently using [Wiki](https://wiki.bnl.gov/EPIC/index.php?title=Main_Page){:target="_blank"} as its main web presence tool.
-Migration to this website is work in progress. See sections below for technical information.
+* The ePIC Collaboration is currently using [Wiki](https://wiki.bnl.gov/EPIC/index.php?title=Main_Page){:target="_blank"}
+as its main web presence tool.
+Migration to this website, motivated by ease of long-term maintenance and efficient coordination of the
+team contributions, is work in progress. See sections below for technical information.
 * For meetings and agendas, there is a dedicated [ePIC Indico area](https://indico.bnl.gov/category/402/){:target="_blank"} hosted at BNL.
 * Ther is an extensive set of mailing lists hosted at BNL. For more information about access please contact the corresponding working group convener or a member of the leadership team.
 
@@ -24,8 +26,30 @@ We leverage a very popular and efficient _static website generator_ technology:
 [Jekyll](https://jekyllrb.com/){:target="_blank"}.
 It allows the authors to use the easy-to-read [Markdown](https://www.markdownguide.org/){:target="_blank"}
 annotation, which is then automatically, and transparently for the user, converted into HTML. This way
-the cumbersome HTML editing as avoided. Data content is handled in a way that effectively serves as a database,
-without the need to deploy an acutal database server. This is achieved by storing the site data (when needed)
+the cumbersome HTML editing as avoided. A simple example of the Markdown text such as used on this page
+may look like this:
+
+```markdown
+External links: [Markdown](https://www.markdownguide.org/){:target="_blank"}
+
+Itemized list:
+* __item 1__ in bold
+* _item 2_ in italics
+```
+...which is rendered as:
+
+---
+
+External links: [Markdown](https://www.markdownguide.org/){:target="_blank"}
+
+Itemized list:
+* __item 1__ in bold
+* _item 2_ in italics
+
+---
+
+Data content is handled in a way that effectively serves as a database,
+without the need to deploy an actual database server. This is achieved by storing the site data (when needed)
 in YAML-formatted files, which can be queried and parsed automatically.
 The most optimal setup for the content development is to install Jekyll on your machine using the information
 contained in the Jekyll link above. This requires a modicum of effort but is certainly not too difficult. It is
