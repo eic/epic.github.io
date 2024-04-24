@@ -163,6 +163,12 @@
     - name: tech
       full: Technical Documents
 
+    - name: figures
+      full: Figure Repository
+      
+    - name: photos
+      full: Figure Repository
+
 ### NEWS
 #
 - name: news
