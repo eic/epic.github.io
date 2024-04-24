@@ -24,3 +24,17 @@ Work in progress: information on the ePIC _committees_ is being added to this pa
    * Xuan Li
    * Wouter Deconinck (DEI Liaison)
 * __Conference summaries__, useful plots, CTC policies, and others can be found at the interim [Wiki page](https://wiki.bnl.gov/EPIC/index.php?title=Conferences){:target="_blank"}
+
+##### Membership Committee
+* __Mission Statement__: The ePIC membership committee (eMC) is responsible for the development of the Membership policy and oversight of its fair implementation. The Membership Policy defines the process for establishing, and maintaining "Good Standing" status for Collaboration members, and the primary requirements for the authorship within ePIC. The committee will assist the Council in developing and enforcing, upon adoption of, the ePIC Membership policy.
+* __Contact Email__: _epic-cc-membership-committee-l@lists.bnl.gov_
+* __Committee Members__
+   * Peter Steinberg (Chair)
+   * Pietro Antonioli (vice-chair)
+   * Helen Caines
+   * Bedanga Mohanty
+   * Silvia Niccolai
+   * Douglas Higinbotham
+   * Marzia Rosati
+   * Friederike Bock
+   
