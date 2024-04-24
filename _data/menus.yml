@@ -19,7 +19,7 @@
 
     - name: phonebook
       full: Phone Book
-      link: https://phonebook.sdcc.bnl.gov/eic/client/
+      link: https://phonebook.sdcc.bnl.gov/ePIC/
 
     - name: coming
       full: Coming to BNL
