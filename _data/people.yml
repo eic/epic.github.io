@@ -1,5 +1,18 @@
 # There is not predefined order here. We are adding conveners on top, to feed the WG pages with contact info
 
+# inclusive
+- name: tyler_kutz
+  full: Tyler Kutz
+  email: tkutz@mit.edu
+  roles: [convener]
+  teams: 
+
+- name: claire_gwenlan
+  full: Claire Gwenlan
+  email: claire.gwenlan@physics.ox.ac.uk
+  roles: [convener]
+  teams:
+
 # exclusive_diffraction
 - name: rachel_montgomery
   full: Rachel Montgomery
