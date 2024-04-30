@@ -29,8 +29,9 @@ tablepadding: ' '
 
 # Decorative elements
 epic_logo: /assets/images/site/EPIC-logo_white_transparent_64h.png
-splash: /assets/images/site/1600px-EPIC-logo_black_transparent.png
-
+#
+splash_internal: /assets/images/site/ePIC_Detector_50percent.png
+splash_public: /assets/images/site/1600px-EPIC-logo_black_transparent.png
 ######################### ICON SECTION #########################
 home_icon: /assets/images/site/icons/house-32.png
 external_icon: /assets/images/site/icons/external-link-32.png
