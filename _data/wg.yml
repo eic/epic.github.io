@@ -1,4 +1,14 @@
 # PHYSICS
+- name:               inclusive
+  description:        'The inclusive physics working group evaluates the ability of the ePIC detector to observe inclusive processes.  As this largely relies on detecting the scattered beam electron, the inclusive PWG is contributing significantly to the development of electron identification and reconstruction algorithms.  Inclusive kinematics can also be reconstructed using information from the hadronic final state, and therefore the inclusive PWG is also contributing to hadronic reconstruction algorithms.  Evaluating the resolutions of multiple reconstruction methods across the ePIC acceptance will allow maximal exploitation of ePICs capabilities.  Last but not least, the inclusive PWG is benchmarking ePIC performance by extracting key inclusive physics observables, namely reduced cross sections (NC and CC) and double-spin asymmetries.'
+  conveners:          tyler_kutz, claire_gwenlan
+  list:               'eic-projdet-Inclusive-l@lists.bnl.gov'
+  list_sub:           'https://lists.bnl.gov/mailman/listinfo/eic-projdet-inclusive-l'
+  indico:             'https://indico.bnl.gov/category/417/'
+  mattermost:         'https://chat.epic-eic.org/main/channels/inclusive-physics'
+  wiki:               'https://wiki.bnl.gov/EPIC/index.php?title=Inclusive'
+  meetings:           'Mondays at 12pm ET (bi-weekly)'
+  
 - name:               exclusive_diffraction
   description:        'Exclusive and Diffraction'
   mission_statement:  'The responsibilities of the Exclusive, Diffraction, and Tagging working group are to evaluate the performance of the ePIC detector as it relates to exclusive, diffractive, or tagging processes. We are charged with the development of a set of performance and physics benchmarks.'
