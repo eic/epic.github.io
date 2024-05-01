@@ -5,6 +5,4 @@ name: inclusive
 layout: default
 ---
 
-{% include layouts/title.md %}
-
-#### TBD
+{% include layouts/wg_top.md %}
