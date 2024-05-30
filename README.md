@@ -6,6 +6,9 @@ Suggestions are welcome.
 
 ## Current work items
 
+Fill out the required pages. Please contact T.Ullrich for details.
+
+
 ### New features
 
 WG descriptions are now kept in the file _wg.yml_ in the *_data_* folder
@@ -17,4 +20,7 @@ WG descriptions are now kept in the file _wg.yml_ in the *_data_* folder
    * _Exclusive and Diffraction_
    * _Jets and HF_
    * _BSM and EW_
+
+* Keywords (a stub)
+
 
