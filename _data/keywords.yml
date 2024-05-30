@@ -1,0 +1,30 @@
+# Conferences
+- name: dis24
+  description: 31st International Workshop on Deep Inelastic Scattering (2024)
+  category: conference
+  year: 2024
+  url: 'https://lpsc-indico.in2p3.fr/event/3268/contributions/7433/'
+
+# General
+- name : tutorial
+  description: a category of ePIC documents on Zenodo
+  category: general
+
+# Physics
+  - name : transverse energy
+  description: Transverse Energy
+  category: physics
+
+# Simulation
+- name : embedding
+  description: Overlaying real events over simulated data
+  category: simulation
+
+# Software 
+- name : root
+  description: The ROOT analysis platform
+  category: software
+
+- name : software
+  description: Misc software
+  category: software
