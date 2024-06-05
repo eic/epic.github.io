@@ -52,10 +52,11 @@ meeting_icon: /assets/images/site/icons/meeting-point-32.png
 news_icon: /assets/images/site/icons/google-news-32.png
 
 #################################################################
+# Zenodo
+zenodo_query_base: https://zenodo.org/communities/epic/records?q=
 
 
 # Design document
-
 design_document: /assets/docs/design-document.pdf
 
 # Development:

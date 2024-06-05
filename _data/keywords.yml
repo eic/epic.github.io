@@ -1,9 +1,15 @@
 # Conferences
-- name: dis24
+- name: dis2024
   description: 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
   year: 2024
-  url: 'https://lpsc-indico.in2p3.fr/event/3268/contributions/7433/'
+  url: 'https://lpsc-indico.in2p3.fr/event/3268/'
+
+- name: qwg2024
+  description: The 16th International Workshop on Heavy Quarkonium (2024)
+  category: conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1226860/'
 
 # General
 - name: tutorial
