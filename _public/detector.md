@@ -1,5 +1,5 @@
 ---
-title: Our Detector
+title: ePIC Detector
 name: detector
 layout: public
 ---
