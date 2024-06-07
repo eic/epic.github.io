@@ -12,9 +12,13 @@ layout: public
 
 
 <hr/>
-##### Central Detector
+#### Central Detector
 
-The **Central Detector** is very compact and it has an acceptance of 2o-178o, limited by the beam pipes.
+
+<div><img src="https://zenodo.org/records/11522461/files/central_detector.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
+
+
+The **Central Detector** is very compact and it has an acceptance of 2&deg;-178&deg;, limited by the beam pipes.
 It includes a **[tracking system](#tracking_detectors)**, an extended system for
 **[particle identification](#pid-detectors)**, a set of
 **[electromagnetic calorimeters](#electromagnetic-calorimeter-detectors)**, the
@@ -23,31 +27,36 @@ It includes a **[tracking system](#tracking_detectors)**, an extended system for
 
 
 <hr/>
-##### Tracking Detectors
-Images to be added
+#### Tracking Detectors
+
+<div><img src="https://zenodo.org/records/11522461/files/tracking_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
 
 <hr/>
-##### PID Detectors
-Images to be added
+#### PID Detectors
+
+<div><img src="https://zenodo.org/records/11522461/files/pid_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
 
 <hr/>
-##### Electromagnetic Calorimeter Detectors
-Images to be added
+#### Electromagnetic Calorimeter Detectors
 
-
-<hr/>
-##### Superconducting Solenoid
-Images to be added
+<div><img src="https://zenodo.org/records/11522461/files/emcal_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
 
 
 <hr/>
-##### Hadron Calorimeter Detectors
-Images to be added
+#### Superconducting Solenoid
+
+<div><img src="https://zenodo.org/records/11522461/files/solenoid_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
+
+<hr/>
+#### Hadron Calorimeter Detectors
+
+<div><img src="https://zenodo.org/records/11522461/files/hcal_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
 
 
 <hr/>
-##### Far Detectors
-Images to be added
+#### Far Detectors
+
+<div><img src="https://zenodo.org/records/11522461/files/far_detectors.png"   style='height: auto; width: 50%; object-fit: contain'/></div>
 
 The detector hermeticity is to a large extent restore equipping the angular
 regions not covered by the central detector by the Far Detectors
