@@ -14,3 +14,43 @@ The ePIC detector will be built with funding from the U.S. Department of Energyâ
 
 <img src="/assets/images/site/world_map_dashboard.png" alt="ePIC Institutions Worldwide Map" width="90%"/>
 
+<br>
+
+<img src="/assets/images/site/eicug-warsaw-2023.jpg" alt="ePIC Collaboration Photo" width="90%"/>
+
+<br>
+
+#### Collaboration Contacts
+---
+
+The ePIC Collaboration is represented by:
+
+<table>
+
+<tr>
+
+<td>
+<img src="/assets/images/site/lajoie.png" alt="John Lajoie Photo" width="50%"/><br>
+
+<a href="https://www.ornl.gov/staff-profile/john-g-lajoie">John Lajoie</a> <br>
+ePIC Spokesperson<br>
+Oak Ridge National Laboratory<br>
+<a href="mailto:lajoiejg@ornl.gov">lajoiejg@ornl.gov</a> <br>
+</td>
+
+<td width="10%">
+
+</td>
+
+<td>
+<img src="/assets/images/site/dalla-torre.png" alt="Silvia Dalla Torre Photo" width="55%"/><br>
+
+<a href="https://wwwusers.ts.infn.it/~dallator/SilviaDALLATORRE/">Silvia Dalla Torre</a> <br>
+ePIC Deputy Spokesperson<br>
+INFN<br>
+<a href="mailto:silvia.dallatorre@ts.infn.it">silvia.dallatorre@ts.infn.it</a> <br>
+</td>
+
+</tr>
+
+</table>
