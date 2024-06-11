@@ -12,11 +12,11 @@ In the process of building and eventually using this detector to do groundbreaki
 
 The ePIC detector will be built with funding from the U.S. Department of Energy’s Office of Science, Office of Nuclear Physics, with key contributions from international partners.
 
-<img src="/assets/images/site/world_map_dashboard.png" alt="ePIC Institutions Worldwide Map" width="90%"/>
+<img src="/assets/images/collaboration_stats/world_map_dashboard.png" alt="ePIC Institutions Worldwide Map" width="90%"/>
 
 <br>
 
-<img src="/assets/images/site/eicug-warsaw-2023.jpg" alt="ePIC Collaboration Photo" width="90%"/>
+<img src="/assets/images/collaboration_photos/eicug-warsaw-2023.jpg" alt="ePIC Collaboration Photo" width="90%"/>
 
 <br>
 
@@ -30,7 +30,7 @@ The ePIC Collaboration is represented by:
 <tr>
 
 <td>
-<img src="/assets/images/site/lajoie.png" alt="John Lajoie Photo" width="50%"/><br>
+<img src="/assets/images/collaboration_photos/lajoie.png" alt="John Lajoie Photo" width="50%"/><br>
 
 <a href="https://www.ornl.gov/staff-profile/john-g-lajoie">John Lajoie</a> <br>
 ePIC Spokesperson<br>
@@ -43,7 +43,7 @@ Oak Ridge National Laboratory<br>
 </td>
 
 <td>
-<img src="/assets/images/site/dalla-torre.png" alt="Silvia Dalla Torre Photo" width="55%"/><br>
+<img src="/assets/images/collaboration_photos/dalla-torre.png" alt="Silvia Dalla Torre Photo" width="55%"/><br>
 
 <a href="https://wwwusers.ts.infn.it/~dallator/SilviaDALLATORRE/">Silvia Dalla Torre</a> <br>
 ePIC Deputy Spokesperson<br>
