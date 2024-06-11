@@ -55,6 +55,6 @@ table, td, th {
 
 <hr/>
 
-Last updated June 11, 2024 (TU)
+Last updated: June 11, 2024 (TU)
 
 
