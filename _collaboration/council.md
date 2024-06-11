@@ -10,7 +10,7 @@ layout: default
 
 The Collaboration Council (CC) is the governing body of the ePIC Collaboration of international institutions. The CC makes all major policy decisions within the Collaboration. Further details about the CC can be found in section 5 of the ePIC charter. The CC is lead by the elected Chair and Vice-chair who also maintain this web page. 
 
---
+---
 
 #### News, Upcoming Events
 The next CC meeting will take place at the collaboration meeting at Lehigh University. Details will be announced soon.
@@ -51,7 +51,8 @@ table, td, th {
 | 1 | Ernst Sichtermann | chair | 2/2023-5/2024 |
 | 1 | Bernd Surrow | vice-chair | 2/2023-5/2024 |
 
--
+---
+
 Last updated June 11, 2024 (TU)
 
 
