@@ -36,7 +36,8 @@ The next CC meeting will take place at the collaboration meeting at Lehigh Unive
 
 #### Early-Career Representatives
 
-[Aranya Giri](mailto:aranyagiri230597@gmail.com), [Nicolas Schmidt](mailto:schmidtnv@ornl.gov), and [Maria Stefaniak] (mailto:stefaniak.9@osu.edu)
+[Aranya Giri](mailto:aranyagiri230597@gmail.com), [Nicolas Schmidt](mailto:schmidtnv@ornl.gov), 
+and [Maria Stefaniak](mailto:stefaniak.9@osu.edu)
 
 #### Past Chair-Lines
 
