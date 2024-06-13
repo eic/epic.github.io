@@ -16,6 +16,8 @@ Despite significant progress, many fundamental questions about the nature of ord
 
 The EIC will employ electron scattering on protons and ions to investigate their internal structures with unprecedented precision in electromagnetic interactions. The ePIC Detector will analyze particles from thousands of collisions per second, collecting crucial data to uncover subtle effects and gain insights into the intricacies of matter. By studying these energetic collisions of electrons with protons and heavier nuclei, ePIC will enable the exploration of uncharted territories in matter dominated by gluons and transient quark-antiquark pairs known as the quark sea, originating from gluons.
 
+The structure of matter will be studied through a class of deep inelastic scattering processes, where the probed nucleon breaks apart, or through exclusive processes where it remains intact. In these processes, an incoming electron emits a high-energy virtual photon that interacts with the nucleon, thereby probing its internal structure. The fraction of the nucleon's momentum carried by the struck quark, denoted as x, and the resolution power at which the nucleon is probbed, Q², can be accessed via the measurement of the scattered electron.
+
 ### Imaging of Nucleons
 
 The EIC and its ePIC Detector will address fundamental questions about nucleons, including how their properties like mass and spin emerge from their partonic structure, and how sea quarks and gluons, along with their spins, are distributed in space and momentum within the nucleon. Through advanced electron scattering techniques, this research will illuminate the complex quark-gluon interactions that form the foundation of visible matter.
