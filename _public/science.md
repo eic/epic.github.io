@@ -18,6 +18,8 @@ The EIC will employ electron scattering on protons and ions to investigate their
 
 ### Imaging of Nucleons
 
+The EIC and its ePIC Detector will address fundamental questions about nucleons, including how their properties like mass and spin emerge from their partonic structure, and how sea quarks and gluons, along with their spins, are distributed in space and momentum within the nucleon. Through advanced electron scattering techniques, this research will illuminate the complex quark-gluon interactions that form the foundation of visible matter.
+
 #### Unraveling the Mystery of Proton Spin
 
 Understanding the origin of the proton's spin is a fundamental challenge in nuclear physics. While protons are composed of three quarks, the spins of these quarks account for only about 30% of the proton's spin. The remaining spin is believed to arise from gluon spins, sea quarks, and the orbital motion of quarks and gluons. The ePIC Detector at EIC is designed to probe these contributions in unprecedented detail. By colliding longitudinally polarized electrons with nucleons and analyzing both inclusive and semi-inclusive deep inelastic scattering events, we will measure the spin contributions from gluons and various quark flavors. In inclusive deep inelastic scattering, only the scattered electron is detected, while in semi-inclusive deep inelastic scattering, an additional hadron created in the collisions is also detected and identified. This comprehensive approach will allow researchers to precisely quantify the factors contributing to the proton's spin, offering new insights into one of the most profound puzzles of nuclear physics.
