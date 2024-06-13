@@ -154,23 +154,23 @@
     - name: papers
       full: Papers
 
-    # - name: analysis_notes
-    #   full: Analysis Notes
+    - name: analysis_notes
+      full: Analysis Notes
 
-    # - name: theses
-    #   full: Theses
+    - name: theses
+      full: Theses
 
-    # - name: reports
-    #   full: Reports
+    - name: reports
+      full: Reports
 
-    # - name: tech
-    #   full: Technical Documents
+    - name: tech
+      full: Technical Documents
 
-    # - name: figures
-    #   full: Figure Repository
+    - name: figures
+      full: Figure Repository
       
-    # - name: photos
-    #   full: Photo Repository
+    - name: photos
+      full: Photo Repository
 
 ### NEWS
 #
