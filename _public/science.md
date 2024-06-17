@@ -4,7 +4,11 @@ name: science
 layout: public
 ---
 
-{% include layouts/title.md %}
+<h3>ePIC Science</h3>
+* TOC
+{:toc}
+
+<hr/>
 
 ### Exploring the Quark-Gluon Structure of Matter
 
