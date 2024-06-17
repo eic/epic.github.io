@@ -11,6 +11,27 @@
   year: 2024
   url: 'https://indico.cern.ch/event/1226860/'
 
+
+# docs
+- name: charter
+  description: The ePIC charter
+  category: documents
+
+
+- name: logo
+  description: The ePIC logo collection
+  category: documents
+
+
+# detector
+- name: calorimetry
+  description: ePIC calorimetry
+  category: detector
+
+- name: images
+  description: ePIC detector images
+  category: detector
+
 # General
 # - name: tutorial
 #   description: a category of ePIC documents on Zenodo
