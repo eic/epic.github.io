@@ -87,9 +87,9 @@ collections:
   meetings:
     output: true
     permalink: /meetings/:title.html
-  publications:
+  documents:
     output: true
-    permalink: /publications/:title.html
+    permalink: /documents/:title.html
   news:
     output: true
     permalink: /news/:title.html

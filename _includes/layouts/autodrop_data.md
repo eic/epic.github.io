@@ -5,7 +5,7 @@
 {% when "detector" %}    {% assign theCollection=site.detector %}  {% assign icon=site.detector_icon %}
 {% when "sc" %}          {% assign theCollection=site.sc %}        {% assign icon=site.software_icon %}
 {% when "meetings" %}    {% assign theCollection=site.meetings %}  {% assign icon=site.meeting_icon %}
-{% when "publications" %}{% assign theCollection=site.publications %}{% assign icon=site.literature_icon %}
+{% when "documents" %} {% assign theCollection=site.documents %}   {% assign icon=site.literature_icon %}
 {% when "news" %}        {% assign theCollection=site.news %}      {% assign icon=site.news_icon %}
 
 

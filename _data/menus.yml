@@ -145,9 +145,12 @@
 
 ### PUBLICATIONS
 #
-- name: publications
-  full: Publications
+- name: documents
+  full: Documents
   submenus:
+    - name: keywords
+      full: Keywords
+
     - name: conferences
       full: Conferences
 

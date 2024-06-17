@@ -12,25 +12,25 @@
   url: 'https://indico.cern.ch/event/1226860/'
 
 # General
-- name: tutorial
-  description: a category of ePIC documents on Zenodo
-  category: general
+# - name: tutorial
+#   description: a category of ePIC documents on Zenodo
+#   category: general
 
-# Physics
-- name: transverse energy
-  description: Transverse Energy
-  category: physics
+# # Physics
+# - name: transverse energy
+#   description: Transverse Energy
+#   category: physics
 
-# Simulation
-- name: embedding
-  description: Overlaying real events over simulated data
-  category: simulation
+# # Simulation
+# - name: embedding
+#   description: Overlaying real events over simulated data
+#   category: simulation
 
-# Software 
-- name: root
-  description: The ROOT analysis platform
-  category: software
+# # Software 
+# - name: root
+#   description: The ROOT analysis platform
+#   category: software
 
-- name: software
-  description: Misc software
-  category: software
+# - name: software
+#   description: Misc software
+#   category: software
