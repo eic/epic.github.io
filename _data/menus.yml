@@ -47,6 +47,9 @@
     - name: council
       full: Collaboration Council
 
+    - name: alumni
+      full: Leadership Alumni
+
     - name: separator
       label: yes
       full: ' '

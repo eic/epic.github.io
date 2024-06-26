@@ -23,6 +23,14 @@
   category: documents
 
 
+- name: ana_note
+  description: Analysis Note
+  category: documents
+
+- name: tech_note
+  description: Technical Note
+  category: documents
+
 # detector
 - name: calorimetry
   description: ePIC calorimetry
