@@ -4,6 +4,31 @@ name: alumni
 layout: default
 ---
 
-{% include layouts/title.md %}
+<h3>The ePIC Collaboration Leadership Alumni</h3>
+---
+* TOC
+{:toc}
+---
+#### Spokesperson's Office
 
-*Welcome to the ePIC Alumni Page.*
+* Spokesperson
+   * John Lajoie (2023-)
+* Deputy Spokesperson
+   * Silvia Dalla Torre (2023-)
+
+---
+#### Collaboration Council
+
+* Chair
+   * Bernd Surrow (2023-)
+
+* Vice-Chair
+   * Thomas Ullrich (2023-)
+
+---
+#### DEI Office
+
+* Chair
+   * Megan Connors (2023-)
+* Vice-chair
+   * Christine Nattrass (2023-)
