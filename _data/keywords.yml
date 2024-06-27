@@ -1,4 +1,6 @@
 # Conferences
+
+# 2024
 - name: dis2024
   description: The 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
@@ -76,6 +78,43 @@
   category:  conference
   year: 2024
   url: 'https://indico.cern.ch/event/1253590/'
+
+
+# 2023
+
+- name: zs2023
+  description: The 23rd Zimányi School (2023)
+  category:  conference
+  year: 2023
+  url: 'http://zimanyischool.kfki.hu/23/'
+
+- name: einn2023
+  description: The 15th European Research Conference on EM Interactions with Nucleons and Nuclei (2023)
+  category:  conference
+  year: 2023
+  url: 'https://2023.einnconference.org/'
+
+
+- name: spin2023
+  description: The 25th International Spin Symposium (2023)
+  category:  conference
+  year: 2023
+  url: ' https://indico.jlab.org/event/663/'
+
+- name: dnp2023
+  description: The 6th Joint Meeting of the APS Division of Nuclear Physics and the Physical Society of Japan (2023)
+  category:  conference
+  year: 2023
+  url: 'https://meetings.aps.org/Meeting/HAW23/Content/4427'
+
+
+- name: hp2023
+  description: The 11th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2023)
+  category:  conference
+  year: 2023
+  url: 'https://wwuindico.uni-muenster.de/event/1409/'
+
+### -- end conference block
 
 
 # docs
