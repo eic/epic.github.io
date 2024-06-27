@@ -1,6 +1,6 @@
 # Conferences
 - name: dis2024
-  description: 31st International Workshop on Deep Inelastic Scattering (2024)
+  description: The 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
   year: 2024
   url: 'https://lpsc-indico.in2p3.fr/event/3268/'
@@ -10,6 +10,72 @@
   category: conference
   year: 2024
   url: 'https://indico.cern.ch/event/1226860/'
+
+- name: sqm2024
+  description: The 21st International Conference on Strangeness in Quark Matter (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.in2p3.fr/event/29792/'
+  
+- name: fcc2024
+  description: The Future Circular Collider (FCC) Conference (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1298458/'
+
+- name: aum2024
+  description: The RHIC/AGS Users Meeting (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.bnl.gov/event/22687/'
+
+- name: qnp2024
+  description: The 10th International Conference on Quarks and Nuclear Physics (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.icc.ub.edu/event/180/'
+
+- name: nstar2024
+  description: The NSTAR Workshop (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.jlab.org/event/729/'
+
+- name: int2b2024
+  description: The INT workshop on Heavy Ion Physics in the EIC Era (2024)
+  category:  conference
+  year: 2024
+  url: 'https://www.int.washington.edu/programs-and-workshops/24-2b'
+
+- name: diff2024
+  description: The Diffraction and Low-x Workshop (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1354173/'
+
+- name: dnp2024
+  description: The Fall Meeting of the APS Division of Nuclear Physics (2024)
+  category:  conference
+  year: 2024
+  url: 'https://web.mit.edu/dnp2024/index.html'
+
+- name: chep2024
+  description: The 27th International Conference on Computing in High-Energy and Nuclear Physics (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1338689/'
+
+- name: pisa2024
+  description: The 6th Pisa Meeting on Advanced Detectors (2024)
+  category:  conference
+  year: 2024
+  url: 'https://www.pi.infn.it/pm/'
+
+- name: lhcp2024
+  description: The 12th Large Hadron Collider Physics Conference - LHCP (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1253590/'
 
 
 # docs
@@ -40,6 +106,9 @@
   description: ePIC detector images
   category: detector
 
+
+# FOR FUTURE DEVELOPMENT
+#
 # General
 # - name: tutorial
 #   description: a category of ePIC documents on Zenodo
