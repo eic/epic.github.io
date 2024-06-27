@@ -4,13 +4,15 @@ name: conferences
 layout: default
 years:
 - 2024
+- 2023
 ---
 {% include layouts/title.md %}
 
 The left column in the tables below contains links to the respective conferences' pages.
-
 Conference "contributions" links represent collections of relevant ePIC items on Zenodo.
 Please note that some conference uploads may be still pending i.e. not all queries will produce results.
+
+For easy access, the conferences are grouped by the year.
 
 {% for year in page.years %}
 {% assign c4y=site.data.keywords | where_exp: "item", "item.year==year" | where_exp: "item", "item.category=='conference'" | sort: "name" %}
@@ -24,5 +26,9 @@ Please note that some conference uploads may be still pending i.e. not all queri
   </tr>
 {% endfor %}
 </table>
+
+<br/>
+
+---
 
 {% endfor %}
