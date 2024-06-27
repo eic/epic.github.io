@@ -11,6 +11,9 @@ years:
 This page is under development.
 
 #### Conferences
+
+Conference keywords represent links to collections of relevant ePIC items on Zenodo.
+Please note that some uploads may be still pending i.e. not all queries will produce results.
 {% for year in page.years %}
 ##### {{ year }}
 
@@ -24,3 +27,7 @@ This page is under development.
 <hr/>
 #### Detector keywords
 {% include documents/kw.md category='detector' %}
+
+<br/>
+
+---
