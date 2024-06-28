@@ -114,6 +114,14 @@
   year: 2023
   url: 'https://wwuindico.uni-muenster.de/event/1409/'
 
+
+- name: ephny2023
+  description: The XXIX Cracow Epiphany Conference (2023)
+  category:  conference
+  year: 2023
+  url: 'https://epiphany.ifj.edu.pl/epiphany2023/about.html'
+
+
 ### -- end conference block
 
 
