@@ -9,30 +9,18 @@ years:
 {% include layouts/title.md %}
 
 
-This page is under development.
-
 #### Conferences
 
-Conference keywords represent links to collections of relevant ePIC items on Zenodo.
-Please note that some uploads may be still pending i.e. not all queries will produce results.
-For easy access, the conferences are grouped by the year.
-
-{% for year in page.years %}
-##### {{ year }}
-
-{% include documents/cnf.md year=year %}
-
-<br/>
+Conference keywords (tags) -- are presented on a dedicated [web page](/documents/confkw.html)
 
 ---
 
-{% endfor %}
-
-#### Document keywords
+##### Document keywords
 {% include documents/kw.md category='documents' %}
 
-<hr/>
-#### Detector keywords
+---
+
+##### Detector keywords
 {% include documents/kw.md category='detector' %}
 
 <br/>
