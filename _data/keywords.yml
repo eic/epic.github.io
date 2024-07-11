@@ -1,3 +1,172 @@
+
+# docs
+- name: charter
+  description: The ePIC charter
+  category: documents
+
+
+- name: logo
+  description: The ePIC logo collection
+  category: documents
+
+
+- name: ana_note
+  description: Analysis Note
+  category: documents
+
+- name: tech_note
+  description: Technical Note
+  category: documents
+
+# detector
+- name: calorimetry
+  description: ePIC calorimetry
+  category: detector
+
+- name: images
+  description: ePIC detector images
+  category: detector
+
+
+#################################################################################################
+#
+# Proposed keywords
+
+- name: daq
+  description: Related to the DAQ systems
+  category: proposed
+
+- name: electronics
+  description: Electronics
+  category: proposed
+
+- name: tracking
+  description: Tracking subsystems and related items
+  category: proposed
+
+- name: subsystem
+  description: Narrows the search down specifically to subsystems
+  category: proposed
+
+- name: emcal
+  description: Electromagnetic Calorimeter
+  category: proposed
+
+- name: hcal
+  description: Hadronic Calorimeter
+  category: proposed
+
+- name: pid
+  description: Particle Identification
+  category: proposed
+
+- name: ff
+  description: Far Forward
+  category: proposed
+
+- name: fb
+  description: Far Backward
+  category: proposed
+
+- name: hardware
+  description: Hardware
+  category: proposed
+
+- name: simulation
+  description: Simulation
+  category: proposed
+
+- name: svt
+  description: Silicon Vertex Detector
+  category: proposed
+
+- name: mpgd
+  description: MPGD
+  category: proposed
+
+- name: cymbal
+  description: CyMBAL
+  category: proposed
+
+- name: urwell
+  description: uRWELL
+  category: proposed
+
+- name: bot
+  description: BOT
+  category: proposed
+
+- name: ect
+  description: ECT
+  category: proposed
+
+- name: drich
+  description: dRICH
+  category: proposed
+
+- name: pfrich
+  description: pfRICH
+  category: proposed
+
+- name: hpdirc
+  description: hpDIRC
+  category: proposed
+
+- name: tof
+  description: Time of Flight
+  category: proposed
+
+- name: femcal
+  description: FEMCAL
+  category: proposed
+
+- name: bic
+  description: BIC
+  category: proposed
+
+- name: eeemcal
+  description: EEEMCAL
+  category: proposed
+
+- name: lfhcal
+  description: LFHCAL
+  category: proposed
+
+- name: bhcal
+  description: BHCAL
+  category: proposed
+
+- name: nhcal
+  description: NHCAL
+  category: proposed
+
+- name: b0
+  description: B0
+  category: proposed
+
+- name: rpomd
+  description: RP/OMD
+  category: proposed
+
+- name: zdc
+  description: Zero Degree Calorimeter
+  category: proposed
+
+- name: luminosity-hrc
+  description: LUMINOSITY-HRC
+  category: proposed
+
+- name: luminosity-ps
+  description: LUMINOSITY-PS
+  category: proposed
+
+- name: lowq2tagger
+  description: lowQ2-tagger
+  category: proposed
+
+
+#################################################################################################
+#
 # Conferences
 
 # 2024
@@ -124,34 +293,6 @@
 
 ### -- end conference block
 
-
-# docs
-- name: charter
-  description: The ePIC charter
-  category: documents
-
-
-- name: logo
-  description: The ePIC logo collection
-  category: documents
-
-
-- name: ana_note
-  description: Analysis Note
-  category: documents
-
-- name: tech_note
-  description: Technical Note
-  category: documents
-
-# detector
-- name: calorimetry
-  description: ePIC calorimetry
-  category: detector
-
-- name: images
-  description: ePIC detector images
-  category: detector
 
 
 # FOR FUTURE DEVELOPMENT
