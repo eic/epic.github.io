@@ -146,13 +146,21 @@
     - name: reviews
       full: Reviews
 
-### PUBLICATIONS
+### DOCUMENTS
 #
 - name: documents
   full: Documents
   submenus:
+
+    - name: zenodo
+      full: The Document Database
+
     - name: keywords
       full: Keywords
+
+    - name: separator
+      label: yes
+      full: ' '
 
     - name: conferences
       full: Conferences
