@@ -31,137 +31,146 @@
 #################################################################################################
 #
 # Proposed keywords
-
-- name: daq
-  description: Related to the DAQ systems
+- name: detector
+  description: Related to the ePIC detectors as a whole
   category: proposed
 
-- name: electronics
-  description: Electronics
+- name: eldaq
+  description: 'Activities related to the electronics/R-O/DAQ CC WG'
   category: proposed
+
 
 - name: tracking
-  description: Tracking subsystems and related items
+  description: Activities related to the tracking CC WG
   category: proposed
 
-- name: subsystem
-  description: Narrows the search down specifically to subsystems
-  category: proposed
-
-- name: emcal
-  description: Electromagnetic Calorimeter
+- name: ecal
+  description: 'Activities related to the calorimter CC WG, EM calorimetry'
   category: proposed
 
 - name: hcal
-  description: Hadronic Calorimeter
+  description: 'Activities related to the calorimter CC WG, H calorimetry'
   category: proposed
 
 - name: pid
-  description: Particle Identification
+  description: 'Activities related to the PID CC WG'
   category: proposed
 
 - name: ff
-  description: Far Forward
+  description: 'Activities related to the far detector CC WG, far forward'
   category: proposed
 
 - name: fb
-  description: Far Backward
+  description: 'Activities related to the far detector CC WG, far backward'
   category: proposed
 
+
 - name: hardware
-  description: Hardware
+  description: 'Additional tag for hardware-oriented activity (lab, testbeam, irradiation, engineering etc)'
   category: proposed
 
 - name: simulation
-  description: Simulation
+  description: 'Additional tag for simulation-oriented detector activity'
   category: proposed
 
 - name: svt
-  description: Silicon Vertex Detector
+  description: 'SVT DSC activities'
+  category: proposed
+
+- name: vertex
+  description: 'SVT DSC activities, vertex layers'
+  category: proposed
+
+- name: lat
+  description: 'SVT DSC activities, LAT layers'
   category: proposed
 
 - name: mpgd
-  description: MPGD
+  description: 'MPGD DSC activities'
   category: proposed
 
 - name: cymbal
-  description: CyMBAL
+  description: 'MPGD DSC activities, cylindrical MicroMegas'
   category: proposed
 
-- name: urwell
-  description: uRWELL
+- name: urwect
+  description: 'MPGD DSC activities, endcap microRWELL'
   category: proposed
 
-- name: bot
-  description: BOT
-  category: proposed
-
-- name: ect
-  description: ECT
+- name: urwbot
+  description: 'MPGD DSC activities, barrel outer microRWELL'
   category: proposed
 
 - name: drich
-  description: dRICH
+  description: 'dRICH DSC activities'
   category: proposed
 
 - name: pfrich
-  description: pfRICH
+  description: 'pfRICH DSC activities'
   category: proposed
 
 - name: hpdirc
-  description: hpDIRC
+  description: 'hpDIRC DSC activities'
   category: proposed
 
 - name: tof
-  description: Time of Flight
+  description: 'ToF DSC activities'
   category: proposed
 
 - name: femcal
-  description: FEMCAL
+  description: 'FEMCAL DSC activities'
   category: proposed
 
 - name: bic
-  description: BIC
+  description: 'BIC DSC activities'
   category: proposed
 
 - name: eeemcal
-  description: EEEMCAL
+  description: 'EEEMCAL DSC activities'
   category: proposed
 
 - name: lfhcal
-  description: LFHCAL
+  description: 'LFHCAL DSC activities'
+  category: proposed
+
+- name: lfhcalinsert
+  description: 'LFHCAL DSC activities, insert'
   category: proposed
 
 - name: bhcal
-  description: BHCAL
+  description: 'BHCAL DSC activities'
   category: proposed
 
 - name: nhcal
-  description: NHCAL
+  description: 'NHCAL DSC activities'
   category: proposed
 
 - name: b0
-  description: B0
+  description: 'B0 detector activities'
   category: proposed
 
 - name: rpomd
-  description: RP/OMD
+  description: 'Roman Pots and Off Mommentum Detectors activities'
   category: proposed
 
 - name: zdc
-  description: Zero Degree Calorimeter
+  description: 'ZDC activities'
   category: proposed
 
-- name: luminosity-hrc
-  description: LUMINOSITY-HRC
+- name: luminosity
+  description: 'Luminosity system activities'
   category: proposed
 
-- name: luminosity-ps
-  description: LUMINOSITY-PS
+- name: lumhrc
+  description: 'Luminosity system activities, high rate calorimeter'
   category: proposed
 
-- name: lowq2tagger
-  description: lowQ2-tagger
+- name: lumhps
+  description: 'Luminosity system activities, pair spectrometers'
+  category: proposed
+
+- name: lowq2
+  description: 'Low Q^2 taggers activities'
   category: proposed
 
 
