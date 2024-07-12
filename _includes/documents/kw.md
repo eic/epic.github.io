@@ -1,6 +1,11 @@
+{%- if include.category=='proposed' -%}
+{%- assign keys=site.data.keywords | where_exp: "item", "item.category==include.category" -%}
+{%- else -%}
 {%- assign keys=site.data.keywords | where_exp: "item", "item.category==include.category" | sort: "name" -%}
+{%- endif -%}
+
 <table width="80%" border="1">
-<tr><td>Keyword</td><td>Description</td></tr>
+<tr><th class="text-center">Keyword</th><th class="text-center">Description</th></tr>
 {% for item in keys %}
   <tr>
     {%- if item.category=='proposed' -%}

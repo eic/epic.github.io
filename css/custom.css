@@ -37,12 +37,17 @@ blockquote p {
 }
 
 
+p {
+    width: "60%";
+}
+
 /* ---------------------------- */
 /* TABLE */
 th {
-    text-align: center;
+    text-align: left;
     color: #fff;
-    background-color: #888;
+    background-color: #7d7c7c;
+    padding: 6px;
 }
 
 td {
@@ -51,7 +56,7 @@ td {
     padding: 8px;
 }
 
-tr:nth-child(even) {background-color: #f2f2f2;}
+tr:nth-child(even) {background-color: #d4d4d4;}
 
 /* ---------------------------- */
 @media (min-width: 768px) {
