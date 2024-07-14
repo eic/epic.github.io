@@ -112,3 +112,15 @@ tr:nth-child(even) {background-color: #d4d4d4;}
     -moz-border-radius: 6px 0 6px 6px;
     border-radius: 6px 0 6px 6px;
 }
+figure {
+    text-align: center;
+}
+figcaption {
+    font-size: 0.9em;
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+}
+.main-text {
+    margin-top: 20px;
+}
