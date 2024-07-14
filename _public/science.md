@@ -102,5 +102,5 @@ By utilizing the ePIC Detector's advanced technologies and the EIC's capabilitie
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51980330675_3064881a83_3k.jpg" alt="Nucleon within a Nucleus">
-    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
+    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. Graphic courtesy of Brookhaven National Laboratory.</figcaption>
 </figure>
