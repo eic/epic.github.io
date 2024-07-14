@@ -18,7 +18,7 @@ Despite significant progress, many fundamental questions about the nature of mat
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51978744632_97a7302c04_k.jpg" alt="Interior of the Proton">
-  <figcaption>The complex interior of a proton consists of three net quarks called valence quarks, gluons, and sea quarks—transient quark-antiquark pairs originating from gluons. The ePIC detector at the Electron-Ion Collider will study these components with unprecedented precision, providing new insights, especially into the behavior and dynamics of sea quarks and gluons. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
+    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">The complex interior of a proton consists of three net quarks called valence quarks, gluons, and sea quarks—transient quark-antiquark pairs originating from gluons. The ePIC detector at the Electron-Ion Collider will study these components with unprecedented precision, providing new insights, especially into the behavior and dynamics of sea quarks and gluons. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
 </figure>
 
 
@@ -36,7 +36,7 @@ The energy transferred to the quarks is often sufficient to disrupt the binding 
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51980030534_621e7bfa19_3k.jpg" alt="Deep Inelastic Scattering">
-  <figcaption>At ePIC scientists will probe the structure of matter at the most fundamental level through deep inelastic scattering process. In this process an incoming electron emits a high-energy virtual photon that interacts with the interior of the nucleon, probing its internal structure. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
+    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">At ePIC scientists will probe the structure of matter at the most fundamental level through deep inelastic scattering process. In this process an incoming electron emits a high-energy virtual photon that interacts with the interior of the nucleon, probing its internal structure. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
 </figure>
 
 
@@ -54,7 +54,7 @@ The ePIC detector at EIC is designed to probe these contributions in unprecedent
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51980309940_83d8c86e5e_3k.jpg" alt="Proton Spin Decomposition">
-  <figcaption>While protons are composed of three quarks, the spin contribution of these quarks accounts for only about 30% of the proton’s spin. The remaining spin is believed to arise from gluon spins, sea quarks, and the orbital motion of quarks and gluons. How all these various contributions add up to exactly 1/2 is one of the amazing puzzles in nature that ePIC will probe in unprecedented detail. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
+    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">While protons are composed of three quarks, the spin contribution of these quarks accounts for only about 30% of the proton’s spin. The remaining spin is believed to arise from gluon spins, sea quarks, and the orbital motion of quarks and gluons. How all these various contributions add up to exactly 1/2 is one of the amazing puzzles in nature that ePIC will probe in unprecedented detail. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
 </figure>
 
 #### How Does the Mass of the Nucleon Arise?
@@ -69,7 +69,9 @@ By generating detailed tomographic images across a wide spectrum of longitudinal
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51979771821_4c69b9ef7f_3k.jpg" alt="Proton Mass">
-  <figcaption>Most of the proton's mass comes from the energy and interactions between gluons, sea quarks, and the motion of quarks. Quarks inside a proton have very little mass, and gluons have none at all. Surprisingly, if you added up the mass of all the quarks and gluons, they'd only make up about 1% of the proton's total mass. ePIC will study in details where does the other 99% come from.  <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
+  <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">
+    Most of the proton's mass comes from the energy and interactions between gluons, sea quarks, and the motion of quarks. Quarks inside a proton have very little mass, and gluons have none at all. Surprisingly, if you added up the mass of all the quarks and gluons, they'd only make up about 1% of the proton's total mass. ePIC will study in detail where the other 99% comes from. Graphic courtesy of Brookhaven National Laboratory.
+  </figcaption>
 </figure>
 
 #### 3D Imaging of Nucleons
@@ -97,7 +99,7 @@ Additionally, ePIC will delve into the modification of quark distributions withi
 
 <figure>
   <img src="https://live.staticflickr.com/65535/51980330675_3064881a83_3k.jpg" alt="Nucleon within a Nucleus">
-  <figcaption>ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
+    <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
 </figure>
 
 Another unique EIC capability lies in its ability to study the evolution of jets—energetic sprays of particles produced when quarks and gluons fragment within the nucleus. This phenomenon provides crucial insights into QCD dynamics in a controlled environment, offering researchers a window into how quarks lose energy and transform into observable particles in the process of hadronization. The study of jet evolution within the nuclear medium, characterized by its known properties such as size and density, poses fundamental questions about the nature of particle formation and the underlying mechanisms governing these processes.
