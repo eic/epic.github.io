@@ -34,13 +34,12 @@ DIS is an excellent tool for studying the nucleons's interior because it involve
 
 The energy transferred to the quarks is often sufficient to disrupt the binding forces that hold the nucleon together. This process is termed "inelastic" because the internal structure of the nucleon is changed, and it is broken apart rather than remaining intact. The electron that participated in the collision is scattered and detected. Its energy and angle of scattering provide information about the interaction, specifically the fraction of the nucleon’s momentum carried by the struck quark, denoted as x, and the resolution power at which the nucleon is probed, Q². Additionally, the quarks and gluons released from the nucleon form new particles through the process called hadronization, which can also be detected and analyzed to further understand the details of the interaction.
 
+For example, in the process of semi-inclusive deep inelastic scattering (SIDIS), ePIC will measure not only the scattered electron but also one or more of the particles produced from the hadronization process. By analyzing the properties of these produced particles (such as their type, momentum, and angle), scientists can gain additional insights into the scattering process. In deep exclusive processes, the entire final state is measured, providing detailed insights into the dynamics of the interaction. In these processes, such as deeply virtual Compton scattering and exclusive meson production, the nucleon often remains intact after the interaction. Both SIDIS and deep exclusive processes can give us insight into the more complex 3D structure of nucleons, which you can learn more about in the 3D Imaging of Nucleons section.
+
 <figure>
   <img src="https://live.staticflickr.com/65535/51980030534_621e7bfa19_3k.jpg" alt="Deep Inelastic Scattering">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">At ePIC scientists will probe the structure of matter at the most fundamental level through deep inelastic scattering process. In this process an incoming electron emits a high-energy virtual photon that interacts with the interior of the nucleon, probing its internal structure. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
 </figure>
-
-
-For example, in the process of semi-inclusive deep inelastic scattering (SIDIS), ePIC will measure not only the scattered electron but also one or more of the particles produced from the hadronization process. By analyzing the properties of these produced particles (such as their type, momentum, and angle), scientists can gain additional insights into the scattering process. In deep exclusive processes, the entire final state is measured, providing detailed insights into the dynamics of the interaction. In these processes, such as deeply virtual Compton scattering and exclusive meson production, the nucleon often remains intact after the interaction. Both SIDIS and deep exclusive processes can give us insight into the more complex 3D structure of nucleons, which you can learn more about in the 3D Imaging of Nucleons section.
 
 ### Imaging of Nucleons
 
@@ -97,11 +96,11 @@ In the gluon saturation regime, gluons multiply rapidly but also start to recomb
 
 Additionally, ePIC will delve into the modification of quark distributions within atomic nuclei. By scrutinizing these distributions, researchers seek to understand how the nuclear environment influences the behavior and properties of quarks, shedding light on fundamental aspects of nuclear structure.
 
+Another unique EIC capability lies in its ability to study the evolution of jets—energetic sprays of particles produced when quarks and gluons fragment within the nucleus. This phenomenon provides crucial insights into QCD dynamics in a controlled environment, offering researchers a window into how quarks lose energy and transform into observable particles in the process of hadronization. The study of jet evolution within the nuclear medium, characterized by its known properties such as size and density, poses fundamental questions about the nature of particle formation and the underlying mechanisms governing these processes.
+
+By utilizing the ePIC Detector's advanced technologies and the EIC's capabilities of colliding electrons with ions, scientists aim to deepen our knowledge of nuclear matter but also advance theoretical frameworks and pave the way for future discoveries in nuclear physics and beyond.
+
 <figure>
   <img src="https://live.staticflickr.com/65535/51980330675_3064881a83_3k.jpg" alt="Nucleon within a Nucleus">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
 </figure>
-
-Another unique EIC capability lies in its ability to study the evolution of jets—energetic sprays of particles produced when quarks and gluons fragment within the nucleus. This phenomenon provides crucial insights into QCD dynamics in a controlled environment, offering researchers a window into how quarks lose energy and transform into observable particles in the process of hadronization. The study of jet evolution within the nuclear medium, characterized by its known properties such as size and density, poses fundamental questions about the nature of particle formation and the underlying mechanisms governing these processes.
-
-By utilizing the ePIC Detector's advanced technologies and the EIC's capabilities of colliding electrons with ions, scientists aim to deepen our knowledge of nuclear matter but also advance theoretical frameworks and pave the way for future discoveries in nuclear physics and beyond.
