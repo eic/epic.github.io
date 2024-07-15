@@ -77,13 +77,15 @@
   description: 'SVT DSC activities'
   category: proposed
 
-- name: vertex
-  description: 'SVT DSC activities, vertex layers'
-  category: proposed
 
-- name: lat
-  description: 'SVT DSC activities, LAT layers'
-  category: proposed
+## Commented out as per Ernst's request.
+# - name: vertex
+#   description: 'SVT DSC activities, vertex layers'
+#   category: proposed
+
+# - name: lat
+#   description: 'SVT DSC activities, LAT layers'
+#   category: proposed
 
 - name: mpgd
   description: 'MPGD DSC activities'

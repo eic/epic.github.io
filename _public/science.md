@@ -17,7 +17,7 @@ The search for understanding and imaging the structure of matter, which forms th
 Despite significant progress, many fundamental questions about the nature of matter remain unanswered. One of the most profound mysteries is how quarks and gluons, which carry a type of charge related to the strong interaction known as "color," combine to form colorless protons and neutrons, how the properties of nucleons and nuclei emerge from the dynamics of quarks and gluons, and how the residual color forces hold these nucleons together to form atomic nuclei. The ePIC Detector at the Electron-Ion Collider (EIC) is designed to tackle these challenges, providing new insights and deepening our understanding of the fundamental nature of matter.
 
 <figure>
-  <img src="https://live.staticflickr.com/65535/51978744632_97a7302c04_k.jpg" alt="Interior of the Proton">
+  <img src="https://live.staticflickr.com/65535/51978744632_97a7302c04_k.jpg" alt="Interior of the Proton" style="{{ site.img_center }}">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">The complex interior of a proton consists of three net quarks called valence quarks, gluons, and sea quarks—transient quark-antiquark pairs originating from gluons. The ePIC detector at the Electron-Ion Collider will study these components with unprecedented precision, providing new insights, especially into the behavior and dynamics of sea quarks and gluons. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ The energy transferred to the quarks is often sufficient to disrupt the binding 
 For example, in the process of semi-inclusive deep inelastic scattering (SIDIS), ePIC will measure not only the scattered electron but also one or more of the particles produced from the hadronization process. By analyzing the properties of these produced particles (such as their type, momentum, and angle), scientists can gain additional insights into the scattering process. In deep exclusive processes, the entire final state is measured, providing detailed insights into the dynamics of the interaction. In these processes, such as deeply virtual Compton scattering and exclusive meson production, the nucleon often remains intact after the interaction. Both SIDIS and deep exclusive processes can give us insight into the more complex 3D structure of nucleons, which you can learn more about in the 3D Imaging of Nucleons section.
 
 <figure>
-  <img src="https://live.staticflickr.com/65535/51980030534_621e7bfa19_3k.jpg" alt="Deep Inelastic Scattering">
+  <img src="https://live.staticflickr.com/65535/51980030534_621e7bfa19_3k.jpg" alt="Deep Inelastic Scattering" style="{{ site.img_center }}">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">At ePIC scientists will probe the structure of matter at the most fundamental level through deep inelastic scattering process. In this process an incoming electron emits a high-energy virtual photon that interacts with the interior of the nucleon, probing its internal structure. <em>Graphic courtesy of Brookhaven National Laboratory.</em></figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ Understanding the origin of the proton’s spin is a fundamental challenge in nu
 The ePIC detector at EIC is designed to probe these contributions in unprecedented detail. By colliding longitudinally polarized electrons with nucleons and analyzing both inclusive and semi-inclusive deep inelastic scattering events, we will measure the spin contributions from gluons and various quark flavors. In inclusive deep inelastic scattering, only the scattered electron is detected, while in semi-inclusive deep inelastic scattering, an additional hadron created in the collisions is also detected and identified. This comprehensive approach will allow researchers to precisely quantify the factors contributing to the proton’s spin, offering new insights into one of the most profound puzzles of nuclear physics.
 
 <figure>
-  <img src="https://live.staticflickr.com/65535/51980309940_83d8c86e5e_3k.jpg" alt="Proton Spin Decomposition">
+  <img src="https://live.staticflickr.com/65535/51980309940_83d8c86e5e_3k.jpg" alt="Proton Spin Decomposition" style="{{ site.img_center }}">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">While protons are composed of three quarks, the spin contribution of these quarks accounts for only about 30% of the proton’s spin. The remaining spin is believed to arise from gluon spins, sea quarks, and the orbital motion of quarks and gluons. How all these various contributions add up to exactly 1/2 is one of the amazing puzzles in nature that ePIC will probe in unprecedented detail. <em>Graphic courtesy of Brookhaven National Laboratory.</em> </figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ The Electron-Ion Collider, equipped with the advanced ePIC Detector, will revolu
 By generating detailed tomographic images across a wide spectrum of longitudinal momenta—from the surface-level valence quarks to deeper internal states—the EIC will uncover essential details about how gluons are spatially arranged within nucleons. The EIC's broad kinematic range and high luminosity, facilitated by the ePIC Detector, will allow researchers to conduct comprehensive studies on the energy density and pressure exerted by gluons within nucleons. This research will refine our understanding of where nucleon mass originates and refine theoretical models concerning the behavior of gluons.
 
 <figure>
-  <img src="https://live.staticflickr.com/65535/51979771821_4c69b9ef7f_3k.jpg" alt="Proton Mass">
+  <img src="https://live.staticflickr.com/65535/51979771821_4c69b9ef7f_3k.jpg" alt="Proton Mass" style="{{ site.img_center }}">
   <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">
     Most of the proton's mass comes from the energy and interactions between gluons, sea quarks, and the motion of quarks. Quarks inside a proton have very little mass, and gluons have none at all. Surprisingly, if you added up the mass of all the quarks and gluons, they'd only make up about 1% of the proton's total mass. ePIC will study in detail where the other 99% comes from. Graphic courtesy of Brookhaven National Laboratory.
   </figcaption>
@@ -101,6 +101,6 @@ Another unique EIC capability lies in its ability to study the evolution of jets
 By utilizing the ePIC Detector's advanced technologies and the EIC's capabilities of colliding electrons with ions, scientists aim to deepen our knowledge of nuclear matter but also advance theoretical frameworks and pave the way for future discoveries in nuclear physics and beyond.
 
 <figure>
-  <img src="https://live.staticflickr.com/65535/51980330675_3064881a83_3k.jpg" alt="Nucleon within a Nucleus">
+  <img src="https://live.staticflickr.com/65535/51980330675_3064881a83_3k.jpg" alt="Nucleon within a Nucleus" style="{{ site.img_center }}">
     <figcaption style="font-size: 0.9em; font-style: italic; color: #555; margin-top: 10px; text-align: center;">ePIC aims to to unravel the mysteries of quarks, gluons, and their interactions within the nucleus with unprecedented precision. Central to these studies is the investigation of extraordinary high gluon densities in the nuclei, modification of quark distributions within atomic nuclei, and the proces of hadronization. Graphic courtesy of Brookhaven National Laboratory.</figcaption>
 </figure>
