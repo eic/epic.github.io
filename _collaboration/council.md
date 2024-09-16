@@ -25,7 +25,7 @@ The next CC meeting will take place at the collaboration meeting at Lehigh Unive
 *  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Institutional Board on 12/14/2022 
 
 ###### Policies
-* Membership (in preparation)
+* Membership (in preparation) test
 * DEI/Code of Conduct (in preparation)
 * Conferences and Talks (in preparation)
 * Publication (in preparation)
