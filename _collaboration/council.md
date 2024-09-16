@@ -13,7 +13,8 @@ The Collaboration Council (CC) is the governing body of the ePIC Collaboration o
 <hr/>
 
 ##### News, Upcoming Events
-The next CC meeting will take place at the collaboration meeting at Lehigh University. Details will be announced soon.
+
+The next CC meeting will take place on October 18, 2024. More details will follow.
 
 ##### Chair-Line
 
@@ -25,7 +26,7 @@ The next CC meeting will take place at the collaboration meeting at Lehigh Unive
 *  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Institutional Board on 12/14/2022 
 
 ###### Policies
-* Membership (in preparation)
+* Membership Policy [Version 1.1](https://doi.org/10.5281/zenodo.13693927) endorsed by the Collaboration Council in August 2024
 * DEI/Code of Conduct (in preparation)
 * Conferences and Talks (in preparation)
 * Publication (in preparation)
