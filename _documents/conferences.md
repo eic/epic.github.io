@@ -3,6 +3,7 @@ title: Conferences with ePIC participation
 name: conferences
 layout: default
 years:
+- 2025
 - 2024
 - 2023
 ---
@@ -10,7 +11,7 @@ years:
 
 The left column in the tables below contains links to the respective conferences' pages.
 Conference "contributions" links represent collections of relevant ePIC items on Zenodo.
-Please note that some conference uploads may be still pending i.e. not all queries will produce results.
+__Please note that some conference uploads may be still pending i.e. not all queries will produce results.__
 
 For easy access, the conferences are grouped by the year.
 
