@@ -181,6 +181,24 @@
 # Conferences
 
 # 2024
+- name: nthep2024
+  description: New Trends in High-Energy and Low-x Physics (2024)
+  category: conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
+- name: htc2024
+  description: Throughput Computing (2024)
+  category: conference
+  year: 2024
+  url: 'https://agenda.hep.wisc.edu/event/2175/'
+
+- name: hp2024
+  description: The 12th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2024)
+  category: conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1339555/overview'
+
 - name: dis2024
   description: The 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
