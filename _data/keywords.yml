@@ -180,7 +180,17 @@
 #
 # Conferences
 
+
+# 2025
+
+- name: ghp2025
+  description: Workshop of the APS Topical Group on Hadronic Physics (2025)
+  category: conference
+  year: 2025
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
 # 2024
+
 - name: nthep2024
   description: New Trends in High-Energy and Low-x Physics (2024)
   category: conference
