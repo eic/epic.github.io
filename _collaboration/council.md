@@ -20,6 +20,12 @@ The next CC meeting will take place on November 8, 2024. More details will follo
 
 * Bernd Surrow (chair) 5/2024-present
 * Thomas Ullrich (vice-chair) 5/2024-present
+  
+##### Council Members
+
+The ePIC Collaboration Council is composed of at least one individual representative from each participating institution and three at
+large early career members.
+* [List of current council members](https://phonebook.sdcc.bnl.gov/ePIC/#/representatives)
 
 ##### Documents
 ###### Charter
