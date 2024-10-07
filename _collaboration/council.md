@@ -13,19 +13,26 @@ The Collaboration Council (CC) is the governing body of the ePIC Collaboration o
 <hr/>
 
 ##### News, Upcoming Events
-The next CC meeting will take place at the collaboration meeting at Lehigh University. Details will be announced soon.
+
+The next CC meeting will take place on November 8, 2024. More details will follow.
 
 ##### Chair-Line
 
 * Bernd Surrow (chair) 5/2024-present
 * Thomas Ullrich (vice-chair) 5/2024-present
+  
+##### Council Members
+
+The ePIC Collaboration Council is composed of at least one individual representative from each participating institution and three at
+large early career members.
+* [List of current council members](https://phonebook.sdcc.bnl.gov/ePIC/#/representatives)
 
 ##### Documents
 ###### Charter
 *  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Institutional Board on 12/14/2022 
 
 ###### Policies
-* Membership (in preparation)
+* Membership Policy [Version 1.1](https://doi.org/10.5281/zenodo.13693927) endorsed by the Collaboration Council in August 2024
 * DEI/Code of Conduct (in preparation)
 * Conferences and Talks (in preparation)
 * Publication (in preparation)

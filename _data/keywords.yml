@@ -180,7 +180,47 @@
 #
 # Conferences
 
+
+# 2025
+
+- name: poetic2025
+  description: The 11th international conference on the Physics Opportunities at an Electron-Ion Collider (2025)
+  category: conference
+  year: 2025
+  url: 'https://indico.jlab.org/event/871/'
+
+- name: ghp2025
+  description: Workshop of the APS Topical Group on Hadronic Physics (2025)
+  category: conference
+  year: 2025
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
 # 2024
+
+- name: unln2024
+  description: The Workshop on Uncovering New Laws of Nature at the EIC (2024)
+  category: conference
+  year: 2024
+  url: 'https://www.bnl.gov/hepeic/'
+
+- name: nthep2024
+  description: New Trends in High-Energy and Low-x Physics (2024)
+  category: conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
+- name: htc2024
+  description: Throughput Computing (2024)
+  category: conference
+  year: 2024
+  url: 'https://agenda.hep.wisc.edu/event/2175/'
+
+- name: hp2024
+  description: The 12th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2024)
+  category: conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1339555/overview'
+
 - name: dis2024
   description: The 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
