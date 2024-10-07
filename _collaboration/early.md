@@ -37,9 +37,6 @@ The Section 5.2 of [ePIC Collaboration Charter](https://indico.bnl.gov/event/177
 	**Current Representative ()**
 	* [Fernando Flor](https://physics.yale.edu/people/fernando-flor), *Post-Doctoral Fellow, Yale University, USA*
 
-* **EIC Early Career**
-
-	...
 
 #### Upcoming Journal Club Talks
 
