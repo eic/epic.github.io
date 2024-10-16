@@ -33,8 +33,9 @@ large early career members.
 
 ###### Policies
 * Membership Policy [Version 1.1](https://doi.org/10.5281/zenodo.13693927) endorsed by the Collaboration Council in August 2024
+* Conferences and Talks (vote in progress)
 * DEI/Code of Conduct (in preparation)
-* Conferences and Talks (in preparation)
+* Result Approval Policy (in preparation)
 * Publication (in preparation)
 
 ##### Communication Tools
