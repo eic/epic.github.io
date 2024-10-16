@@ -58,11 +58,6 @@ and [Maria Stefaniak](mailto:stefaniak.9@osu.edu)
 
 ##### Past Chair-Lines
 
-<style>
-table, td, th {
-   border: none!important;
-}
-</style>
 
 * Ernst Sichtermann (chair) 2/2023-5/2024
 * Bernd Surrow (vice-chair) 2/2023-5/2024
