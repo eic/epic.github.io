@@ -47,6 +47,9 @@
     - name: council
       full: Collaboration Council
 
+    - name: policies
+      full: Policies
+
     - name: alumni
       full: Leadership Alumni
 
