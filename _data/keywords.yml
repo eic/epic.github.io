@@ -195,6 +195,12 @@
   year: 2025
   url: 'https://indico.cern.ch/event/1353482/overview'
 
+- name: fragcpe2025
+  description: Workshop on Fragmentation in the Collider Precision Era
+  category: conference
+  year: 2025
+  url: 'https://indico.cern.ch/event/1461239/overview'
+
 # 2024
 
 - name: unln2024
