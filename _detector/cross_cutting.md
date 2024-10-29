@@ -42,8 +42,8 @@ layout: default
 
 ### PID (Cerenkov and TOF)
 <h4>Conveners</h4>
-* Oskar Hartbrich <hartbricho@ornl.gov>
 * Thomas Ullrich <thomas.ullrich@bnl.gov>
+* Umberto Tamponi <tamponi@to.infn.it>
 
 <h4>Info</h4>
 * [Indico: https://indico.bnl.gov/category/412/](https://indico.bnl.gov/category/412/){:target="_blank"}
@@ -57,6 +57,7 @@ layout: default
 ### Tracking
 <h4>Conveners</h4>
 * Ernst Sichtermann <epsichtermann@lbl.gov>
+* Barak Schmookler <barak.schmookler@ucr.edu>
 
 <h4>Info</h4>
 * [Indico: https://indico.bnl.gov/category/404/](https://indico.bnl.gov/category/404/){:target="_blank"}
@@ -68,6 +69,7 @@ layout: default
 ### Calorimetry
 <h4>Conveners</h4>
 * Oleg Tsai <tsai@physics.ucla.edu>
+* Friederike Bock <friederike.bock@cern.ch>
 
 <h4>Info</h4>
 * [Indico: https://indico.bnl.gov/category/405/](https://indico.bnl.gov/category/405/){:target="_blank"}

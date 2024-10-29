@@ -10,8 +10,15 @@
 - name: claire_gwenlan
   full: Claire Gwenlan
   email: claire.gwenlan@physics.ox.ac.uk
+  roles: 
+  teams:
+
+- name: stephen_maple
+  full: Stephen Maple
+  email: SCM633@student.bham.ac.uk
   roles: [convener]
   teams:
+
 
 # exclusive_diffraction
 - name: rachel_montgomery
@@ -23,6 +30,13 @@
 - name: raphael_dupre
   full: Raphael Dupré
   email: raphael.dupre@ijclab.in2p3.fr
+  roles: 
+  teams: 
+
+
+- name: zhoudunming_tu
+  full: Zhoudunming Tu
+  email: zhoudunming@bnl.gov
   roles: [convener]
   teams: 
 
@@ -49,6 +63,12 @@
 - name: brian_page
   full: Brian Page
   email: bpage@bnl.gov
+  roles: 
+  teams:
+
+- name: rongrong_ma
+  full: Rongrong Ma
+  email: marr@bnl.gov
   roles: [convener]
   teams:
 
@@ -56,7 +76,7 @@
 - name: michael_nycz
   full: Michael Nycz
   email: mnycz@jlab.org
-  roles: [convener]
+  roles: 
   teams: 
 
 - name: ciprian_gal
@@ -64,6 +84,12 @@
   email: ciprian@jlab.org
   roles: [convener]
   teams:
+
+- name: juliette_mammei
+  full: Juliette Mammei
+  email: jmammei@physics.umanitoba.ca
+  roles: [convener]
+  teams: 
 
 # Other entries
 - name: bressan
