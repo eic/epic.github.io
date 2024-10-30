@@ -7,4 +7,8 @@ layout: default
 
 {% include layouts/title.md %}
 
-#### TBD
+#### Conveners
+
+* Salvatore Fazio <salvatore.fazio@unical.it>
+* Rosi Reed <rosijreed@lehigh.edu>
+
