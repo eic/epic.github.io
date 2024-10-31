@@ -8,11 +8,12 @@ layout: default
 
 ##### Current
 
-* [The Membership Poicy](https://zenodo.org/records/13693927){:target="_blank"} (restricted to members).
+* [The Membership Policy](https://zenodo.org/records/13693927){:target="_blank"} (restricted to members).
 * [The ePIC Conference Policy Draft](https://zenodo.org/records/13937482){:target="_blank"} (restricted to members).
 
 
 ##### Work in Progress
 
 * DEI/Code of Conduct (in preparation)
-* Publication policy (in preparation)
+* Result Approval Policy (in preparation)
+* Publication Policy (in preparation)
