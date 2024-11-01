@@ -61,6 +61,8 @@ design_document: /assets/docs/design-document.pdf
 
 img_center: 'display: block; max-width: 50%; height: auto;   margin-left: auto; margin-right: auto;'
 
+hr: '<hr style="height:2px;border:none;color:#999;background-color:#7d7c7c;" >'
+
 # Development:
 display_news: no
 #
