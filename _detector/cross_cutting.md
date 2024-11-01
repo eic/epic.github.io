@@ -41,6 +41,7 @@ layout: default
 ---
 
 ### PID (Cerenkov and TOF)
+<a id="pid"></a>
 <h4>Conveners</h4>
 * Thomas Ullrich <thomas.ullrich@bnl.gov>
 * Umberto Tamponi <tamponi@to.infn.it>
@@ -67,6 +68,7 @@ layout: default
 ---
 
 ### Calorimetry
+<a id="calorimetry"></a>
 <h4>Conveners</h4>
 * Oleg Tsai <tsai@physics.ucla.edu>
 * Friederike Bock <friederike.bock@cern.ch>
