@@ -53,6 +53,10 @@
     - name: alumni
       full: Leadership Alumni
 
+    - name: calendar
+      full: The ePIC Holiday Calendar
+
+
     - name: separator
       label: yes
       full: ' '
