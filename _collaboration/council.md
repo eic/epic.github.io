@@ -35,7 +35,7 @@ large early career members.
 
 ##### Documents
 ###### Charter
-*  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Institutional Board on 12/14/2022 
+*  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Council on 12/14/2022 
 
 ###### Policies
 
