@@ -8,8 +8,8 @@ layout: default
 
 ##### Current
 
-* [The Membership Policy](https://zenodo.org/records/13693927){:target="_blank"} (restricted to members).
-* [The ePIC Conference Policy Draft](https://zenodo.org/records/13937482){:target="_blank"} (restricted to members).
+* The [Membership Policy](https://zenodo.org/records/13693927){:target="_blank"} adopted by Council August 2024 (restricted to members).
+* The [ePIC Conference and Talks Policy](https://zenodo.org/records/14052729){:target="_blank"} adopted by Council November 7, 2024 (restricted to members).
 
 
 ##### Work in Progress
