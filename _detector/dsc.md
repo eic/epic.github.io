@@ -25,7 +25,8 @@ layout: default
 ---
 
 ### Backwards RICH
-* DSL/DSTC: Alexander Kislev <ayk@bnl.gov>
+* DSL/DSTC: Alexander Kiselev <ayk@bnl.gov>
+* Deputy DSL: Brian Page <bpage@bnl.gov>
 
 ---
 
@@ -34,13 +35,14 @@ layout: default
 * DSTC (B0): Zvi Citron <zhcitron@bgu.ac.il>
 * DSTC (Roman Pots/OMD): Alex Jentsch <ajentsch@bnl.gov>
 * DSTC (ZDC): Yuji Goto <goto@bnl.gov>
+* Co-DSL (ZDC): Miguel Arratia <miguel.arratia@ucr.edu>
 
 ---
 
 ### Luminosity
 * Co-DSL: Nick Zachariou <nick.zachariou@york.ac.uk>
 * Co-DSL: Krzysztof Piotrzkowski <piotrzkowski@agh.edu.pl>
-* DSTC (Pair Spectrometer): Dhevan Gangadharan <dhevan.raja.gangadharan@cern.ch>
+* DSTC (Pair Spectrometer): Stephen Kay <stephen.kay@york.ac.uk>
 
 ---
 
@@ -76,7 +78,7 @@ layout: default
 ### Barrel ECAL
 * Co-DSL's: Sylvester Joosten <sjoosten@anl.gov>, Hwidong Yoo <hdyoo@yonsei.ac.kr>
 * Deputy DSL: Zurek, Maria <zurek@anl.gov>
-* DSTC (Si): Jessica Metcalfe <jessica.metcalfe@gmail.com>
+* DSTC (Si): Manoj Jadhav <mjadhav@anl>
 * DSTC (Scifi/Pb): Zisis Papandreou <zisis@uregina.ca>
 
 ---
@@ -101,5 +103,5 @@ layout: default
 ---
 
 ### AC-LGAD TOF
-* DSL: Zhenyu Ye <yezhenyu2003@gmail.com>,
+* DSL: Zhangbu Xu <zxu22@kent.edu>
 * Deputy DSL: Satoshi Yano <syano@hiroshima-u.ac.jp>
