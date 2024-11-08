@@ -47,6 +47,9 @@
     - name: council
       full: Collaboration Council
 
+    - name: eb
+      full: Executive Board
+
     - name: policies
       full: Policies
 

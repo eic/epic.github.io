@@ -6,36 +6,45 @@ layout: default
 
 {% include layouts/title.md %}
 
-Webpage in progress : Information about Early Career is currently added here. Information might be not correct.
+#### About
 
 **The members of ePIC collaboration who are either an undergraduate or masters student, a PhD candidate or researchers with not more than five years of post PhD experience (not counting career interruptions) are the early-career members.**
 
 It is important to subscribe the [Mattermost Channel](https://chat.epic-eic.org/main/channels/early-career){:target="_blank"} and [mailing list](https://lists.bnl.gov/mailman/listinfo/eic-projdet-earlycareer-l){:target="_blank"} to receive the updates and news of the collaboration regulary. Only members who are enlisted in the mailing list will have voting rights for the early career representative's elections.
-
 Be vocal about the challenges early career members are facing or may face in the future. Your thoughts will be presented to the relevant body of the collaboration. Please share your [feedback](https://forms.gle/GSus6iVM8Ldcem9AA){:target="_blank"}.
+
+
+{{ site.hr }}
 
 #### Representation of Early Career
 
-* **Collaboration Council**
+---
 
-	Three early career members are elected for a two-year term. At least one of the elected members must be a graduate student (Master's or PhD candidate). They will serve as a bridge between the members and the council, voting in the council to represent the decisions of the members on relevant topics.
+<a id="cc"></a>
 
-	**Current Representatives (2023-2025)**
-	* [Maria Stefaniak](https://www.linkedin.com/in/maria-stefaniak-physics/){:target="_blank"},	Post-Doctoral Fellow,	Ohio State University,	USA
-	* [Nicolas Schimdt](https://www.linkedin.com/in/nicolas-vt-schmidt/){:target="_blank"},	Post-Doctoral Fellow,	Oak Ridge National Lab,	USA
-	* [Aranya Giri](https://www.linkedin.com/in/aranya-giri-a37067260/){:target="_blank"},	PhD Candidate,	University of Houston,	USA
+##### Collaboration Council - Current Representatives (2023-2025)
+
+Three early career members are elected as representatives, for a two-year term. They serve as a bridge between the early career members and the council, voting in the council to represent the decisions of the members on relevant topics. At least one of the elected persons must be a graduate student (Master's or PhD candidate).
+
+* [Maria Stefaniak](https://www.linkedin.com/in/maria-stefaniak-physics/){:target="_blank"},	Post-Doctoral Fellow,	Ohio State University,	USA. [e-mail](mailto:stefaniak.9@osu.edu)
+* [Nicolas Schimdt](https://www.linkedin.com/in/nicolas-vt-schmidt/){:target="_blank"},			Post-Doctoral Fellow,	Oak Ridge National Lab,	USA. [e-mail](mailto:schmidtnv@ornl.gov)
+* [Aranya Giri](https://www.linkedin.com/in/aranya-giri-a37067260/){:target="_blank"},			PhD Candidate,	University of Houston,	USA. [e-mail](mailto:aranyagiri230597@gmail.com)
 
 
-* **Executive Board**
+---
 
-	**Current Representative ()**
-	* [Fernando Flor](https://physics.yale.edu/people/fernando-flor){:target="_blank"},	Post-Doctoral Fellow, Yale University, USA
+<a id="eb"></a>
 
+##### Executive Board - Current Representative
+* [Fernando Flor](https://physics.yale.edu/people/fernando-flor){:target="_blank"},	Post-Doctoral Fellow, Yale University, USA
+
+{{ site.hr }}
 
 #### Early Career Journal Club
 
 [Journal Club Indico Link](https://indico.bnl.gov/category/513/){:target="_blank"}
 
+{{ site.hr }}
 
 #### EIC Early Career Workshop
 
@@ -48,7 +57,7 @@ It is an exciting platform organised by Jefferson Lab, Brookhaven Lab and host i
 * [2022](https://indico.jlab.org/event/485/){:target="_blank"}
 * [2021](https://indico.jlab.org/event/438/){:target="_blank"}
 
-#### Collaboration Updates
+<!--  Collaboration Updates -->
 
 	
 

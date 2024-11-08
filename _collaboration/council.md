@@ -10,13 +10,13 @@ layout: default
 
 The Collaboration Council (CC) is the governing body of the ePIC Collaboration of international institutions. The CC makes all major policy decisions within the Collaboration. Further details about the CC can be found in section 5 of the ePIC charter. The CC is lead by the elected Chair and Vice-chair who also maintain this web page. 
 
-<hr/>
+---
 
 ##### News, Upcoming Events
 
-The next CC meeting will take place on November 8, 2024. See [here](https://indico.bnl.gov/event/24841/) for agenda and zoom info.
+The next CC meeting will take place on November 8, 2024. See [here](https://indico.bnl.gov/event/24841/){:target="_blank"} for agenda and zoom info.
 
----
+{{ site.hr }}
 
 ##### Chair-Line
 
@@ -31,7 +31,8 @@ The ePIC Collaboration Council is composed of at least one individual representa
 large early career members.
 * [List of current council members](https://phonebook.sdcc.bnl.gov/ePIC/#/representatives){:target="_blank"} (link to the ePIC Phone Book pages)
 
----
+
+{{ site.hr }}
 
 ##### Documents
 ###### Charter
@@ -41,18 +42,16 @@ large early career members.
 
 * [The Policies Web Page](/collaboration/policies.html)
 
----
+{{ site.hr }}
 
 ##### Communication Tools
 * Mailing list: [eic-projdet-ib-l@lists.bnl.gov](https://lists.bnl.gov/mailman/listinfo/eic-projdet-ib-l){:target="_blank"} (restricted to CC members)
 * [Indico](https://indico.bnl.gov/category/437/){:target="_blank"} (includes all CC meetings)
 
----
+{{ site.hr }}
 
 ##### Early-Career Representatives
-
-[Aranya Giri](mailto:aranyagiri230597@gmail.com), [Nicolas Schmidt](mailto:schmidtnv@ornl.gov), 
-and [Maria Stefaniak](mailto:stefaniak.9@osu.edu)
+Please see this section of the [Early Career Committee page](/collaboration/early.html#cc){:target="_blank"}
 
 ---
 
