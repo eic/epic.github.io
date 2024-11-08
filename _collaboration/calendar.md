@@ -76,4 +76,4 @@ The calendar is based on the following regional holidays (with 2025 dates):
 
 ---
 
-<img src="/assets/images/collaboration_misc/ePIC_2025_Holiday_Calendar.png" alt="ePIC Holiday Calendar" width="90%"/>
+<img src="/assets/images/collaboration_org/ePIC_2025_Holiday_Calendar.png" alt="ePIC Holiday Calendar" width="90%"/>
