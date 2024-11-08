@@ -71,10 +71,10 @@ By charter, the ePIC Collaboration is organized around a *Collaboration Council*
 
 The management structure of the ePIC Collaboration is built around three *Coordination Offices* - *Technical Coordination*, *Software and Computing* and *Analysis*. The *Coordination Offices* each manage a set of *Working Groups (WGs)*. 
 
-<img src="/assets/images/collaboration_stats/WG_Chart_nologo.png" alt="ePIC Working Groups" width="90%"/>
+<img src="/assets/images/collaboration_org/WG_Chart_nologo.png" alt="ePIC Working Groups" width="90%"/>
 
 ---
 
 The Detector effort is also managed by the *Technical Coordination Office*, but is organized into a set of *Detector Subsystem Collaborations (DSCs)*. The DSC's appoint their own leadership from the collaborators committed to each detector effort in the form of *Detector Subsystem Leaders (DSLs)* and *Detector Subsystem Technical Coordinators (DSTCs)*. 
 
-<img src="/assets/images/collaboration_stats/DSC_Chart_nologo.png" alt="ePIC Detector Subsystem Collaborations" width="90%"/>
+<img src="/assets/images/collaboration_org/DSC_Chart_nologo.png" alt="ePIC Detector Subsystem Collaborations" width="90%"/>
