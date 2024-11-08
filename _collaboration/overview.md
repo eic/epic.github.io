@@ -4,10 +4,6 @@ name: overview
 layout: default
 ---
 
-{% include layouts/title.md %}
-
-This page contains information about the ePIC Collaboration structure, contacts, etc.
-<br/>
 #### Collaboration Information
 
 <table border="1" width="80%">
@@ -61,8 +57,15 @@ Eic-projdet-collab-l@lists.bnl.gov
 
 </table>
 
+---
 
-<br/>
+#### Spokesperson's Office
+* Spokesperson: John Lajoie <lajoiejg@ornl.gov>
+* Deputy Spokesperson: Silvia Dalla Torre <Silvia.DallaTorre@cern.ch>
+
+
+{{ site.hr }}
+
 #### Collaboration Organization
 
 **The ePIC Collaboration Charter - version 1.0, as passed by the ePIC IB on 12/14/2022:** [EPIC_Charter-v1.0.pdf](https://zenodo.org/records/11584258){:target="_blank"}
