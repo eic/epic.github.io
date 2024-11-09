@@ -10,7 +10,7 @@ layout: default
 
 <tr>
 <td>
-<b>Indico Page:</b>
+<b>Indico Page</b>
 </td>
 <td nowrap>
 <a href="https://indico.bnl.gov/category/402/" target="_blank">https://indico.bnl.gov/category/402/</a>
@@ -19,7 +19,7 @@ layout: default
 
 <tr>
 <td>
-<b>Meeting-Calendar:</b>
+<b>Meeting-Calendar</b>
 </td>
 <td nowrap>
 <a href="https://indico.bnl.gov/category/402/calendar" target="_blank">https://indico.bnl.gov/category/402/calendar/</a>
@@ -29,7 +29,7 @@ layout: default
 
 <tr>
 <td>
-<b>Main Collaboration Email-list:</b>
+<b>Main Collaboration mailing list</b>
 </td>
 <td nowrap>
 Eic-projdet-collab-l@lists.bnl.gov
@@ -38,7 +38,7 @@ Eic-projdet-collab-l@lists.bnl.gov
 
 <tr>
 <td>
-<b>Subscribe to mailing lists through:</b>
+<b>Subscribe to the main mailing list</b>
 </td>
 <td nowrap>
 <a href="https://lists.bnl.gov/mailman/listinfo/eic-projdet-collab-l" target="_blank">https://lists.bnl.gov/mailman/listinfo/eic-projdet-collab-l</a>
@@ -51,7 +51,16 @@ Eic-projdet-collab-l@lists.bnl.gov
 <b>Mattermost:</b> the most active communication channel within ePIC. Join at:
 </td>
 <td nowrap>
-<a href="https://chat.epic-eic.org)" target="_blank">https://chat.epic-eic.org</a>
+<a href="https://chat.epic-eic.org" target="_blank">https://chat.epic-eic.org</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<b>Logo Collection</b> (Zenodo)
+</td>
+<td nowrap>
+<a href="https://zenodo.org/records/14058463" target="_blank">https://zenodo.org/records/14058463</a>
 </td>
 </tr>
 
@@ -74,10 +83,10 @@ By charter, the ePIC Collaboration is organized around a *Collaboration Council*
 
 The management structure of the ePIC Collaboration is built around three *Coordination Offices* - *Technical Coordination*, *Software and Computing* and *Analysis*. The *Coordination Offices* each manage a set of *Working Groups (WGs)*. 
 
-<img src="/assets/images/collaboration_org/WG_Chart_nologo.png" alt="ePIC Working Groups" width="90%"/>
+<img src="/assets/images/collaboration_org/WG_Chart_nologo.png" alt="ePIC Working Groups" width="80%"/>
 
 ---
 
 The Detector effort is also managed by the *Technical Coordination Office*, but is organized into a set of *Detector Subsystem Collaborations (DSCs)*. The DSC's appoint their own leadership from the collaborators committed to each detector effort in the form of *Detector Subsystem Leaders (DSLs)* and *Detector Subsystem Technical Coordinators (DSTCs)*. 
 
-<img src="/assets/images/collaboration_org/DSC_Chart_nologo.png" alt="ePIC Detector Subsystem Collaborations" width="90%"/>
+<img src="/assets/images/collaboration_org/DSC_Chart_nologo.png" alt="ePIC Detector Subsystem Collaborations" width="80%"/>
