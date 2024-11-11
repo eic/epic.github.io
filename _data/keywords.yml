@@ -1,14 +1,17 @@
 
 # docs
+- name: epic-eic
+  description: Attributed to ePIC
+  category: documents
+
+
 - name: charter
   description: The ePIC charter
   category: documents
 
-
 - name: logo
   description: The ePIC logo collection
   category: documents
-
 
 - name: ana_note
   description: Analysis Note
