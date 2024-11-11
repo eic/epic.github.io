@@ -1,14 +1,17 @@
 
 # docs
+- name: epic-eic
+  description: Attributed to ePIC
+  category: documents
+
+
 - name: charter
   description: The ePIC charter
   category: documents
 
-
 - name: logo
   description: The ePIC logo collection
   category: documents
-
 
 - name: ana_note
   description: Analysis Note
@@ -17,6 +20,15 @@
 - name: tech_note
   description: Technical Note
   category: documents
+
+- name: draft
+  description: Designates a draft of the document
+  category: documents
+
+- name: pretdr
+  description: preTDR
+  category: documents
+
 
 # detector
 - name: calorimetry
@@ -202,6 +214,12 @@
   url: 'https://indico.cern.ch/event/1461239/overview'
 
 # 2024
+
+- name: epic2024jan
+  description: The ePIC Collaboration Meeting, Jan 2024
+  category: conference
+  year: 2024
+  url: 'https://indico.bnl.gov/event/20473/'
 
 - name: unln2024
   description: The Workshop on Uncovering New Laws of Nature at the EIC (2024)
