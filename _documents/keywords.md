@@ -11,7 +11,7 @@ years:
 
 #### Conferences
 
-__Conference keywords (tags) -- are presented on a dedicated__ [web page](/documents/confkw.html)
+Please note that conference keywords (tags) -- are presented on a dedicated [conference page with links to the conferences' websites](/documents/conferences.html)
 
 ---
 

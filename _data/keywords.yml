@@ -1,9 +1,20 @@
 
 # docs
+
+
 - name: epic-eic
   description: Attributed to ePIC
   category: documents
 
+
+- name: image
+  description: An image or a collection of images
+  category: documents
+
+
+- name: policy
+  description: One of the ePIC policy documents
+  category: documents
 
 - name: charter
   description: The ePIC charter
@@ -31,21 +42,18 @@
 
 
 # detector
-- name: calorimetry
-  description: ePIC calorimetry
+- name: detector
+  description: Related to the ePIC detectors as a whole
   category: detector
 
-- name: images
-  description: ePIC detector images
+- name: calorimetry
+  description: ePIC calorimetry
   category: detector
 
 
 #################################################################################################
 #
 # Proposed keywords
-- name: detector
-  description: Related to the ePIC detectors as a whole
-  category: proposed
 
 - name: eldaq
   description: 'Activities related to the electronics/R-O/DAQ CC WG'
@@ -195,6 +203,12 @@
 
 # 2025
 
+- name: epic2025winter
+  description: The ePIC Collaboration Meeting, winter 2025
+  category: conference
+  year: 2025
+  url: 'https://agenda.infn.it/event/43344/'
+
 - name: poetic2025
   description: The 11th international conference on the Physics Opportunities at an Electron-Ion Collider (2025)
   category: conference
@@ -215,8 +229,8 @@
 
 # 2024
 
-- name: epic2024jan
-  description: The ePIC Collaboration Meeting, Jan 2024
+- name: epic2024winter
+  description: The ePIC Collaboration Meeting, winter 2024
   category: conference
   year: 2024
   url: 'https://indico.bnl.gov/event/20473/'

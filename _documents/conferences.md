@@ -1,5 +1,5 @@
 ---
-title: Conferences with ePIC participation
+title: Conferences and Meetings with ePIC participation
 name: conferences
 layout: default
 years:
@@ -9,11 +9,13 @@ years:
 ---
 {% include layouts/title.md %}
 
-The left column in the tables below contains links to the respective conferences' pages.
-Conference "contributions" links represent collections of relevant ePIC items on Zenodo.
-__Please note that some conference uploads may be still pending i.e. not all queries will produce results.__
+* The left column in the tables below contains links to the respective conferences' pages.
+* The right column contains official ePIC keywords assigned to each conference.
+Each keyword is a clickable link to the ePIC items on archived on Zenodo, related to the conference (or meeting).
+* __Please note that some conference uploads (especially for future conferences) may be still pending i.e. not all queries will produce results.__
+* For easy access, the conferences are grouped by the year.
 
-For easy access, the conferences are grouped by the year.
+{{ site.hr }}
 
 {% for year in page.years %}
 {% assign c4y=site.data.keywords | where_exp: "item", "item.year==year" | where_exp: "item", "item.category=='conference'" | sort: "name" %}
@@ -23,7 +25,7 @@ For easy access, the conferences are grouped by the year.
 {% for conference in c4y %}
   <tr>
     <td width="80%"><nobr><a href="{{ conference.url }}" target="_blank">{{ conference.description }}</a></nobr></td>
-    <td width="20%"><nobr><a href="{{ site.zenodo_query_base }}{{ conference.name }}" target="_blank">Contributions</a></nobr></td>
+    <td width="20%"><nobr><a href="{{ site.zenodo_query_base }}{{ conference.name }}" target="_blank">{{ conference.name }}</a></nobr></td>
   </tr>
 {% endfor %}
 </table>
