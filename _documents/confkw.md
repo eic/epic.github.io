@@ -22,6 +22,8 @@ Please note that some uploads may be still pending i.e. not all queries will pro
 For easy access, the conferences are grouped by the year.
 
 
+{% comment %}
+
 {% for year in page.years %}
 ##### {{ year }}
 
@@ -32,3 +34,5 @@ For easy access, the conferences are grouped by the year.
 ---
 
 {% endfor %}
+
+{% endcomment %}
