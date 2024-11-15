@@ -11,23 +11,28 @@ years:
 
 #### Conferences
 
-Please note that conference keywords (tags) -- are presented on a dedicated [conference page with links to the conferences' websites](/documents/conferences.html)
+* Please note that conference keywords (tags) are presented on a dedicated [conference page](/documents/conferences.html) with links to the conferences' websites.
+* Some of the keywords are posted here before the correponding materials are uploaded to Zenodo, which means not every query will return results.
 
 ---
 
-##### Document keywords
+##### Document
 {% include documents/kw.md category='documents' %}
 
 ---
 
-##### Detector keywords
+##### Detector
 {% include documents/kw.md category='detector' %}
-
 
 ---
 
-##### Proposed keywords
+##### Software
+{% include documents/kw.md category='software' %}
 
+---
+
+##### Proposed
+{% include documents/kw.md category='proposed' %}
 
 _The keywords in this section have not yet been approved for official use in ePIC. Please consider sending comments and/or suggestions to John Lajoie and Silvia Dalla Torre._
 
