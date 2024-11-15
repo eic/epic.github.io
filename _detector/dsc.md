@@ -60,7 +60,7 @@ layout: default
 
 ### Gaseous Trackers
 * DSL: Kondo Gnanvo <kagnanvo@jlab.org>
-* DSTC: Annalisa D'Angelo<annalisa@roma2.infn.it>
+* DSTC: Annalisa D'Angelo <annalisa@roma2.infn.it>
 * DSTC: Francesco Bossu <francesco.bossu@cea.fr>
 
 ---
