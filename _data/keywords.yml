@@ -1,11 +1,9 @@
 
 # docs
 
-
 - name: epic-eic
   description: Attributed to ePIC
   category: documents
-
 
 - name: image
   description: An image or a collection of images
@@ -40,7 +38,6 @@
   description: preTDR
   category: documents
 
-
 # detector
 - name: detector
   description: Related to the ePIC detectors as a whole
@@ -50,6 +47,67 @@
   description: ePIC calorimetry
   category: detector
 
+- name: tracking
+  description: Related to the tracking CC WG
+  category: detector
+
+- name: emcal
+  description: 'Related to the calorimter CC WG, EM calorimetry'
+  category: detector
+
+- name: hcal
+  description: 'Related to the calorimter CC WG, H calorimetry'
+  category: detector
+
+- name: pid
+  description: 'Related to the PID CC WG'
+  category: detector
+
+- name: ff
+  description: 'Rrelated to the far detector CC WG, far forward'
+  category: detector
+
+- name: fb
+  description: 'Related to the far detector CC WG, far backward'
+  category: detector
+
+- name: drich
+  description: 'dRICH DSC activities'
+  category: detector
+
+- name: pfrich
+  description: 'pfRICH DSC activities'
+  category: detector
+
+- name: hpdirc
+  description: 'hpDIRC DSC activities'
+  category: detector
+
+- name: tof
+  description: 'ToF DSC activities'
+  category: detector
+
+- name: zdc
+  description: 'ZDC activities'
+  category: detector
+
+- name: luminosity
+  description: 'Luminosity system activities'
+  category: detector
+
+
+# Software 
+- name: root
+  description: The ROOT analysis platform
+  category: software
+
+- name: software
+  description: Misc software
+  category: software
+
+- name: ci
+  description: Continuous Integration
+  category: software
 
 #################################################################################################
 #
@@ -58,32 +116,6 @@
 - name: eldaq
   description: 'Activities related to the electronics/R-O/DAQ CC WG'
   category: proposed
-
-
-- name: tracking
-  description: Activities related to the tracking CC WG
-  category: proposed
-
-- name: ecal
-  description: 'Activities related to the calorimter CC WG, EM calorimetry'
-  category: proposed
-
-- name: hcal
-  description: 'Activities related to the calorimter CC WG, H calorimetry'
-  category: proposed
-
-- name: pid
-  description: 'Activities related to the PID CC WG'
-  category: proposed
-
-- name: ff
-  description: 'Activities related to the far detector CC WG, far forward'
-  category: proposed
-
-- name: fb
-  description: 'Activities related to the far detector CC WG, far backward'
-  category: proposed
-
 
 - name: hardware
   description: 'Additional tag for hardware-oriented activity (lab, testbeam, irradiation, engineering etc)'
@@ -123,22 +155,6 @@
   description: 'MPGD DSC activities, barrel outer microRWELL'
   category: proposed
 
-- name: drich
-  description: 'dRICH DSC activities'
-  category: proposed
-
-- name: pfrich
-  description: 'pfRICH DSC activities'
-  category: proposed
-
-- name: hpdirc
-  description: 'hpDIRC DSC activities'
-  category: proposed
-
-- name: tof
-  description: 'ToF DSC activities'
-  category: proposed
-
 - name: femcal
   description: 'FEMCAL DSC activities'
   category: proposed
@@ -173,14 +189,6 @@
 
 - name: rpomd
   description: 'Roman Pots and Off Mommentum Detectors activities'
-  category: proposed
-
-- name: zdc
-  description: 'ZDC activities'
-  category: proposed
-
-- name: luminosity
-  description: 'Luminosity system activities'
   category: proposed
 
 - name: lumhrc
@@ -401,11 +409,4 @@
 #   description: Overlaying real events over simulated data
 #   category: simulation
 
-# # Software 
-# - name: root
-#   description: The ROOT analysis platform
-#   category: software
 
-# - name: software
-#   description: Misc software
-#   category: software
