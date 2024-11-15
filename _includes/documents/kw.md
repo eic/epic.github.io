@@ -4,7 +4,7 @@
 {%- assign keys=site.data.keywords | where_exp: "item", "item.category==include.category" | sort: "name" -%}
 {%- endif -%}
 
-<table width="80%" border="1">
+<table width="60%" border="1">
 <tr><th class="text-center">Keyword</th><th class="text-center">Description</th></tr>
 {% for item in keys %}
   <tr>

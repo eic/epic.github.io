@@ -32,7 +32,6 @@ years:
 ---
 
 ##### Proposed
-{% include documents/kw.md category='proposed' %}
 
 _The keywords in this section have not yet been approved for official use in ePIC. Please consider sending comments and/or suggestions to John Lajoie and Silvia Dalla Torre._
 
