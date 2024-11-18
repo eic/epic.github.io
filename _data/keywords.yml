@@ -239,6 +239,14 @@
   year: 2025
   url: 'https://indico.jlab.org/event/871/'
 
+- name: qm2025
+  description: Quark Matter (2025)
+  category: conference
+  upload: no
+  year: 2025
+  url: 'https://indico.cern.ch/event/1334113/'
+
+
 # 2024
 
 - name: aum2024
