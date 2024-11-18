@@ -214,28 +214,39 @@
 - name: epic2025winter
   description: The ePIC Collaboration Meeting, winter 2025
   category: conference
+  upload: no
   year: 2025
   url: 'https://agenda.infn.it/event/43344/'
-
-- name: poetic2025
-  description: The 11th international conference on the Physics Opportunities at an Electron-Ion Collider (2025)
-  category: conference
-  year: 2025
-  url: 'https://indico.jlab.org/event/871/'
-
-- name: ghp2025
-  description: Workshop of the APS Topical Group on Hadronic Physics (2025)
-  category: conference
-  year: 2025
-  url: 'https://indico.cern.ch/event/1353482/overview'
 
 - name: fragcpe2025
   description: Workshop on Fragmentation in the Collider Precision Era
   category: conference
+  upload: no
   year: 2025
   url: 'https://indico.cern.ch/event/1461239/overview'
 
+- name: ghp2025
+  description: Workshop of the APS Topical Group on Hadronic Physics (2025)
+  category: conference
+  upload: no
+  year: 2025
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
+- name: poetic2025
+  description: The 11th international conference on the Physics Opportunities at an Electron-Ion Collider (2025)
+  category: conference
+  upload: no
+  year: 2025
+  url: 'https://indico.jlab.org/event/871/'
+
 # 2024
+
+- name: aum2024
+  description: The RHIC/AGS Users Meeting (2024)
+  category:  conference
+  upload: no
+  year: 2024
+  url: 'https://indico.bnl.gov/event/22687/'
 
 - name: epic2024winter
   description: The ePIC Collaboration Meeting, winter 2024
@@ -243,35 +254,92 @@
   year: 2024
   url: 'https://indico.bnl.gov/event/20473/'
 
-- name: unln2024
-  description: The Workshop on Uncovering New Laws of Nature at the EIC (2024)
-  category: conference
-  year: 2024
-  url: 'https://www.bnl.gov/hepeic/'
-
-- name: nthep2024
-  description: New Trends in High-Energy and Low-x Physics (2024)
-  category: conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1353482/overview'
-
-- name: htc2024
-  description: Throughput Computing (2024)
-  category: conference
-  year: 2024
-  url: 'https://agenda.hep.wisc.edu/event/2175/'
-
-- name: hp2024
-  description: The 12th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2024)
-  category: conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1339555/overview'
-
 - name: dis2024
   description: The 31st International Workshop on Deep Inelastic Scattering (2024)
   category: conference
   year: 2024
   url: 'https://lpsc-indico.in2p3.fr/event/3268/'
+
+- name: chep2024
+  description: The 27th International Conference on Computing in High-Energy and Nuclear Physics (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1338689/'
+
+- name: diff2024
+  description: The Diffraction and Low-x Workshop (2024)
+  category:  conference
+  upload: no
+  year: 2024
+  url: 'https://indico.cern.ch/event/1354173/'
+
+- name: dnp2024
+  description: The Fall Meeting of the APS Division of Nuclear Physics (2024)
+  category:  conference
+  year: 2024
+  url: 'https://web.mit.edu/dnp2024/index.html'
+
+- name: fcc2024
+  description: The Future Circular Collider (FCC) Conference (2024)
+  category:  conference
+  upload: no
+  year: 2024
+  url: 'https://indico.cern.ch/event/1298458/'
+
+- name: hp2024
+  description: The 12th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2024)
+  category: conference
+  upload: no
+  year: 2024
+  url: 'https://indico.cern.ch/event/1339555/overview'
+
+- name: htc2024
+  description: Throughput Computing (2024)
+  category: conference
+  upload: no
+  year: 2024
+  url: 'https://agenda.hep.wisc.edu/event/2175/'
+
+- name: int2b2024
+  description: The INT workshop on Heavy Ion Physics in the EIC Era (2024)
+  category:  conference
+  upload: no  
+  year: 2024
+  url: 'https://www.int.washington.edu/programs-and-workshops/24-2b'
+
+- name: lhcp2024
+  description: The 12th Large Hadron Collider Physics Conference - LHCP (2024)
+  category:  conference
+  year: 2024
+  url: 'https://indico.cern.ch/event/1253590/'
+
+- name: nthep2024
+  description: New Trends in High-Energy and Low-x Physics (2024)
+  category: conference
+  upload: no  
+  year: 2024
+  url: 'https://indico.cern.ch/event/1353482/overview'
+
+- name: nstar2024
+  description: The NSTAR Workshop (2024)
+  category:  conference
+  upload: no  
+  year: 2024
+  url: 'https://indico.jlab.org/event/729/'
+
+- name: pisa2024
+  description: The 6th Pisa Meeting on Advanced Detectors (2024)
+  category:  conference
+  upload: no
+  year: 2024
+  url: 'https://www.pi.infn.it/pm/'
+
+- name: qnp2024
+  description: The 10th International Conference on Quarks and Nuclear Physics (2024)
+  category:  conference
+  upload: no
+  year: 2024
+  url: 'https://indico.icc.ub.edu/event/180/'
 
 - name: qwg2024
   description: The 16th International Workshop on Heavy Quarkonium (2024)
@@ -282,104 +350,39 @@
 - name: sqm2024
   description: The 21st International Conference on Strangeness in Quark Matter (2024)
   category:  conference
+  upload: no
   year: 2024
   url: 'https://indico.in2p3.fr/event/29792/'
-  
-- name: fcc2024
-  description: The Future Circular Collider (FCC) Conference (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1298458/'
 
-- name: aum2024
-  description: The RHIC/AGS Users Meeting (2024)
-  category:  conference
+- name: unln2024
+  description: The Workshop on Uncovering New Laws of Nature at the EIC (2024)
+  category: conference
+  upload: no
   year: 2024
-  url: 'https://indico.bnl.gov/event/22687/'
-
-- name: qnp2024
-  description: The 10th International Conference on Quarks and Nuclear Physics (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.icc.ub.edu/event/180/'
-
-- name: nstar2024
-  description: The NSTAR Workshop (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.jlab.org/event/729/'
-
-- name: int2b2024
-  description: The INT workshop on Heavy Ion Physics in the EIC Era (2024)
-  category:  conference
-  year: 2024
-  url: 'https://www.int.washington.edu/programs-and-workshops/24-2b'
-
-- name: diff2024
-  description: The Diffraction and Low-x Workshop (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1354173/'
-
-- name: dnp2024
-  description: The Fall Meeting of the APS Division of Nuclear Physics (2024)
-  category:  conference
-  year: 2024
-  url: 'https://web.mit.edu/dnp2024/index.html'
-
-- name: chep2024
-  description: The 27th International Conference on Computing in High-Energy and Nuclear Physics (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1338689/'
-
-- name: pisa2024
-  description: The 6th Pisa Meeting on Advanced Detectors (2024)
-  category:  conference
-  year: 2024
-  url: 'https://www.pi.infn.it/pm/'
-
-- name: lhcp2024
-  description: The 12th Large Hadron Collider Physics Conference - LHCP (2024)
-  category:  conference
-  year: 2024
-  url: 'https://indico.cern.ch/event/1253590/'
-
+  url: 'https://www.bnl.gov/hepeic/'
 
 # 2023
 
-- name: zs2023
-  description: The 23rd Zimányi School (2023)
-  category:  conference
+- name: dis2023
+  description: The 30th International Workshop on Deep Inelastic Scattering (2023)
+  category: conference
+  upload: no
   year: 2023
-  url: 'http://zimanyischool.kfki.hu/23/'
-
-- name: einn2023
-  description: The 15th European Research Conference on EM Interactions with Nucleons and Nuclei (2023)
-  category:  conference
-  year: 2023
-  url: 'https://2023.einnconference.org/'
-
-
-- name: spin2023
-  description: The 25th International Spin Symposium (2023)
-  category:  conference
-  year: 2023
-  url: ' https://indico.jlab.org/event/663/'
+  url: 'https://indico.cern.ch/event/1199314/'
 
 - name: dnp2023
   description: The 6th Joint Meeting of the APS Division of Nuclear Physics and the Physical Society of Japan (2023)
   category:  conference
+  upload: no
   year: 2023
   url: 'https://meetings.aps.org/Meeting/HAW23/Content/4427'
 
-
-- name: hp2023
-  description: The 11th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2023)
+- name: einn2023
+  description: The 15th European Research Conference on EM Interactions with Nucleons and Nuclei (2023)
   category:  conference
+  upload: no
   year: 2023
-  url: 'https://wwuindico.uni-muenster.de/event/1409/'
-
+  url: 'https://2023.einnconference.org/'
 
 - name: ephny2023
   description: The XXIX Cracow Epiphany Conference (2023)
@@ -387,6 +390,33 @@
   year: 2023
   url: 'https://epiphany.ifj.edu.pl/epiphany2023/about.html'
 
+- name: ghp2023
+  description: Workshop of the APS Topical Group on Hadronic Physics (2023)
+  category: conference
+  upload: no
+  year: 2023
+  url: 'https://indico.jlab.org/event/667/'
+
+- name: hp2023
+  description: The 11th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2023)
+  category:  conference
+  upload: no
+  year: 2023
+  url: 'https://wwuindico.uni-muenster.de/event/1409/'
+
+- name: spin2023
+  description: The 25th International Spin Symposium (2023)
+  category:  conference
+  upload: no
+  year: 2023
+  url: ' https://indico.jlab.org/event/663/'
+
+- name: zs2023
+  description: The 23rd Zimányi School (2023)
+  category:  conference
+  upload: no
+  year: 2023
+  url: 'http://zimanyischool.kfki.hu/23/'
 
 ### -- end conference block
 
