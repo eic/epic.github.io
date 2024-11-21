@@ -2,6 +2,21 @@
 title: Collaboration Council
 name: council
 layout: default
+
+
+chairs:
+    - attribute1: Bernd Surrow (chair)
+      attribute2: 5/2024-present
+
+    - attribute1: Thomas Ullrich (vice-chair)
+      attribute2: 5/2024-present
+
+past:
+    - attribute1: Ernst Sichtermann (chair)
+      attribute2: 2/2023-5/2024
+
+    - attribute1: Bernd Surrow (vice-chair)
+      attribute2: 2/2023-5/2024
 ---
 
 {% include layouts/title.md %}
@@ -20,8 +35,7 @@ The next CC meeting will take place on Thursday, January 23. Details to follow s
 
 ##### Chair-Line
 
-* Bernd Surrow (chair) 5/2024-present
-* Thomas Ullrich (vice-chair) 5/2024-present
+{% include layouts/simple_table_2.md data=page.chairs %}
 
 ---
 
@@ -36,7 +50,7 @@ large early career members.
 
 ##### Documents
 ###### Charter
-*  [Version 1.0](https://zenodo.org/records/11584258) as passed by the ePIC Council on 12/14/2022 
+*  [Version 1.0](https://zenodo.org/records/11584258){:target="_blank"} as passed by the ePIC Council on 12/14/2022 
 
 ###### Policies
 
@@ -57,11 +71,4 @@ Please see this section of the [Early Career Committee page](/collaboration/earl
 
 ##### Past Chair-Lines
 
-
-* Ernst Sichtermann (chair) 2/2023-5/2024
-* Bernd Surrow (vice-chair) 2/2023-5/2024
-
-
-
-
-
+{% include layouts/simple_table_2.md data=page.past %}
