@@ -113,13 +113,13 @@
       full: Cross-Cutting WGs
 
 
-### Software and Computing (S&C)
+### Software and Computing
 #
 - name: sc
-  full: S&C
+  full: Software and Computing
   submenus:
     - name: sc_overview
-      full: Overview of Software and Computing
+      full: Overview
 
     - name: tutorials
       full: Tutorials
