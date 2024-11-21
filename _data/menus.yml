@@ -144,17 +144,19 @@
 ### MEETINGS
 #
 - name: meetings
-  full: Meetings
+  full: Conferences and Meetings
   submenus:
 
-    - name: meetings
-      full: ePIC meetings
+# As per discussion with John, comment out until further notice
+#    - name: meetings
+#      full: ePIC meetings
 
-    - name: conf
-      full: Conferences and Workshops
+  - name: conf
+    full: 'Conferences & Workshops'
 
-    - name: reviews
-      full: Reviews
+# Move to "collaboration"?
+  - name: reviews
+    full: Reviews
 
 ### DOCUMENTS
 #

@@ -2,10 +2,30 @@
 title: Technical Coordination
 name: technical_coordination
 layout: default
+
+coordinator:
+
+    - name:     Silvia Dalla Torre
+      email:    Silvia.DallaTorre@cern.ch
+
+deputies:
+
+    - name:     Prakhar Garg
+      email:    prakhar.garg@yale.edu
+
+    - name:     Oskar Hartbrich
+      email:    hartbricho@ornl.gov
+    
+    - name:     Matt Posik
+      email:    posik@temple.edu
+
 ---
 
-### Technical Coordination
+{% include layouts/title.md %}
 
+#####  Coordinator (Interim) 
+{% include layouts/contacts.md people=page.coordinator %}
 
-* Technical Coordinator (Interim): Silvia Dalla Torre <Silvia.DallaTorre@cern.ch>
-* Deputy Technical Coordinators: Prakhar Garg <prakhar.garg@yale.edu>, Oskar Hartbrich <hartbricho@ornl.gov>, Matt Posik <posik@temple.edu>
+<br/>
+#####  Deputies 
+{% include layouts/contacts.md people=page.deputies %}
