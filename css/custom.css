@@ -1,3 +1,16 @@
+/* plain table */
+
+.plain {
+
+}
+
+table.plain tr {
+    background-color: white;
+    line-height: 12px;
+    /* border-bottom: 1px dotted; */
+}
+
+
 /* ---------------------------- */
 /* BLOCKQUOTES */
 blockquote{
