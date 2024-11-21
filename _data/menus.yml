@@ -45,9 +45,11 @@
       full: Committees
 
     - name: council
+      style: 'style="background-color: #ddd;"'
       full: Collaboration Council
 
     - name: eb
+      style: 'style="background-color: #ddd;"'
       full: Executive Board
 
     - name: policies

@@ -40,6 +40,8 @@
 
 {% if submenu.div %}<div class="dropdown-divider"></div>{% endif %}
 
+{% if submenu.name=='separator' %}{{ site.hr }}{% continue %}{% endif %}
+
 {% if submenu.label %}<div class="dropdown-item" style="color: #fff; background-color: #888;">{{ submenu.full }}</div>{% continue %}{% endif %}
 
 
@@ -52,7 +54,7 @@
 {% assign theLink=item.url | relative_url %}
 
 {% assign experiment=theCollection | where: "name", submenu.name | map: "url" | first | relative_url %}
-<a class="dropdown-item" href="{{ theLink }}">{{ submenu.full }}</a>
+<a class="dropdown-item"   {{ submenu.style }} href="{{ theLink }}">{{ submenu.full }}</a>
 
 {% endif %}
 
