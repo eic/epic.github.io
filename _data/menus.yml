@@ -25,8 +25,9 @@
       full: Coming to BNL
 
     - name: calendar
-      full: Calendar
-      link: https://calendar.google.com/calendar/u/0/embed?src=eicugadmin@eicug.org&ctz=America/New_York
+      full: Meetings (Indico Calendar)
+      link: https://indico.bnl.gov/category/402/calendar
+#      https://calendar.google.com/calendar/u/0/embed?src=eicugadmin@eicug.org&ctz=America/New_York
 
     - name: separator
       label: yes
