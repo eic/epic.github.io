@@ -249,6 +249,27 @@
 
 # 2024
 
+- name: laubach2024
+  description: Workshop on the structure and spectroscopy of hadrons with relation to the EIC and JLab22
+  category: conference
+  upload: no
+  year: 2024
+  url: ''
+
+- name: him2024
+  description: 2024 3rd Heavy-ion meeting (HIM): Researches on the future accelerators and colliders
+  category: conference
+  upload: no
+  year: 2024
+  url: 'https://www.apctp.org/theme/d/html/activities/activities01_read.php?id=2179&page=1'
+
+- name: cpad2024
+  description: Coordinating Panel for Advanced Detectors Workshop
+  category: conference
+  upload: no
+  year: 2024
+  url: 'https://indico.phy.ornl.gov/event/510/'
+
 - name: aum2024
   description: The RHIC/AGS Users Meeting (2024)
   category:  conference
