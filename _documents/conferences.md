@@ -11,14 +11,22 @@ years:
 
 ##### Policies and Procedures
 
-* The Conference and Talk Committee (CTC) is responsible for the oversight and management of all oral and poster presentations given at scientific conferences on behalf of the Collaboration. 
+* __The Conference and Talk Committee (CTC)__ is responsible for the oversight and management of all oral and poster presentations given at scientific conferences on behalf of the Collaboration. 
 For contact information and more detail, please see [the committee web page](/collaboration/committees.html){:target="_blank"}.
 * The [ePIC Conference and Talks Policy](https://zenodo.org/records/14052729){:target="_blank"} was adopted by Council on November 7, 2024 (restricted to members).
+* If you plan on getting involved in the Collaboration activity at various conferences and workshops, please make a point of subscribing to the dedicated
+mailing list for Collaboration-level conference material approval: __epic-talks-l@lists.bnl.gov__
+
+{{ site.hr }}
+
+##### Links of Interest
+* The Project Sharepoint folder with pictures and other documents of interest is available at [this link](https://brookhavenlab.sharepoint.com/:f:/s/EICPublicSharingDocs/EujNGT5IzzxHtG0hMeDpu-cBihVczsqTO6L7CbfkXLHQ-Q?e=5bfcjY){:target="_blank"}
 
 {{ site.hr }}
 
 ##### List of Events
-
+* A general list of the EIC-related conferences can be found on a separate [website maintained by the EICUG](https://eic-conferences.lbl.gov/home){:target="_blank"}.
+* The table below lists conferences with ePIC participation, or of immediate interest to our Collaboration.
 * The left column in the tables below contains links to the respective conferences' pages.
 * The right column contains official ePIC keywords assigned to each conference.
 Keywords rendered as clickable links will list the ePIC items on archived on Zenodo, related to the conference (or meeting).
@@ -49,3 +57,5 @@ Keywords rendered as clickable links will list the ePIC items on archived on Zen
 ---
 
 {% endfor %}
+
+
