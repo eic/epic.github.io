@@ -2,11 +2,12 @@
 #                                                                       #
 # This is the menu definition file for the ePIC Collaboration website   #
 #                                                                       #
-#########################################################################
-#                                                                       #
 # Each section corresponds to a dropdown menu in the top navigation bar #                                               #
 #                                                                       #
 #########################################################################
+
+# Submenu items can be optionally styled with CSS, see commented
+# examples below
 
 ### PUBLIC
 #
@@ -46,11 +47,11 @@
       full: Committees
 
     - name: council
-      style: 'style="background-color: #ddd;"'
+      # style: 'style="background-color: #ddd;"'
       full: Collaboration Council
 
     - name: eb
-      style: 'style="background-color: #ddd;"'
+      # style: 'style="background-color: #ddd;"'
       full: Executive Board
 
     - name: policies
@@ -147,7 +148,7 @@
 ### MEETINGS
 #
 - name: meetings
-  full: Conferences and Meetings
+  full: Meetings
   submenus:
 
 # As per discussion with John, comment out until further notice
