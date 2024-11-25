@@ -27,7 +27,7 @@ mailing list for Collaboration-level conference material approval: __epic-talks-
 
 ##### List of Events
 * The table below lists conferences with ePIC participation, or of immediate interest to our Collaboration.
-* The left column in the tables below contains links to the respective conferences' pages.
+* The left column in the tables below contains links to the respective conferences' pages (if available).
 * The right column contains official ePIC keywords assigned to each conference.
 Keywords rendered as clickable links will list the ePIC items on archived on Zenodo, related to the conference (or meeting).
 * Please note that some conference uploads (especially for future conferences) may be still pending i.e. not all queries will produce results.
@@ -42,7 +42,11 @@ Keywords rendered as clickable links will list the ePIC items on archived on Zen
 <table width="80%" border="1">
 {% for conference in c4y %}
   <tr>
+    {% if conference.url == '' %}
+    <td width="80%"><nobr>{{ conference.description }}</nobr></td>
+    {% else %}
     <td width="80%"><nobr><a href="{{ conference.url }}" target="_blank">{{ conference.description }}</a></nobr></td>
+    {% endif %}
     {% if conference.upload != false %}
     <td width="20%"><nobr><a href="{{ site.zenodo_query_base }}{{ conference.name }}" target="_blank">{{ conference.name }}</a></nobr></td>
     {% else %}
