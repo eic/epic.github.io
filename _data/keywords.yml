@@ -38,6 +38,10 @@
   description: preTDR
   category: documents
 
+- name: requirements
+  description: Documents containing various requirements
+  category: documents
+
 # detector
 - name: detector
   description: Related to the ePIC detectors as a whole
@@ -109,9 +113,105 @@
   description: Continuous Integration
   category: software
 
+- name: docker
+  description: Related to the Docker containerization platform
+  category: software
+
+- name: geant4
+  description: Geant4 simulation platform
+  category: software
+
+- name: fastsim
+  description: Fast simulations and related techniques
+  category: software
+
+- name: gan
+  description: Generative Adversarial Network (a deep learning architechture)
+  category: software
+
+- name: gpu
+  description: Graphics processing unit
+  category: software
+
+- name: julia
+  description: A programming language
+  category: software
+
+- name: python
+  description: A programming language
+  category: software
+
+- name: gdml
+  description: The Geometry Description Markup Language
+  category: software
+
+- name: onnx
+  description: Open Neural Network Exchange (an AI ecosystem)
+  category: software
+
+- name: container
+  description: Related to the containerization techniques, a running instance of an image
+  category: software
+
+- name: slowcontrol
+  description: Related to "Slow Controls", a category of real-time computing applications
+  category: software
+
+- name: geometry
+  description: Related to the geometrical properties and configuration of an apparatus/hardware
+  category: software
+
+- name: mceg
+  description: Monte Carlo event generator(s)
+  category: software
+
+- name: simulation
+  description: A computational techique used for modeling phenomena
+  category: software
+
+- name: digitization
+  description: The process of converting information from analog to digital form
+  category: software
+
+- name: reconstruction
+  description: Recovery of characteristics of the underlying physical phenomena from the collected data
+  category: software
+
+- name: streamingdaq
+  description: Data Acquisition based on Streaming Technology
+  category: software
+
+- name: streamingcomputing
+  description: Computing Techniques applied to Streaming Data
+  category: software
+
+- name: ai
+  description: Artificial Intelligence
+  category: software
+
+- name: analysis
+  description: Physics Analysis of the collected data
+  category: software
+
+- name: production
+  description: Computational transformation and creation of data, at scale
+  category: software
+
+- name: validation
+  description: Computational checks that the software product satisfies the intended use, QA
+  category: software
+
+- name: infrastructure
+  description: Related to Computating or Software infrastructure
+  category: software
+
+- name: userlearning
+  description: An organized process of educating users about software, and learning tools related to it
+  category: software
+
 #################################################################################################
 #
-# Proposed keywords
+# Proposed misc keywords
 
 - name: eldaq
   description: 'Activities related to the electronics/R-O/DAQ CC WG'
@@ -204,6 +304,13 @@
   category: proposed
 
 
+# Proposed software keywords
+
+- name: lumhps
+  description: 'Luminosity system activities, pair spectrometers'
+  category: proposed
+
+
 #################################################################################################
 #
 # Conferences
@@ -266,7 +373,6 @@
 - name: cpad2024
   description: Coordinating Panel for Advanced Detectors Workshop
   category: conference
-  upload: no
   year: 2024
   url: 'https://indico.phy.ornl.gov/event/510/'
 

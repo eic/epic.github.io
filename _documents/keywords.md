@@ -16,22 +16,22 @@ years:
 
 ---
 
-##### Document
+##### Document-related keywords
 {% include documents/kw.md category='documents' %}
 
 ---
 
-##### Detector
+##### Detector keywords
 {% include documents/kw.md category='detector' %}
 
 ---
 
-##### Software
+##### Software keywords
 {% include documents/kw.md category='software' %}
 
 ---
 
-##### Proposed
+##### Proposed misc keywords
 
 _The keywords in this section have not yet been approved for official use in ePIC. Please consider sending comments and/or suggestions to John Lajoie and Silvia Dalla Torre._
 
@@ -40,6 +40,7 @@ reliable cross-reference with other information systems where necessary.<br/> Fo
 all keywords in lowercase, and avoid composite keywords (e.g. _A-B_).
 
 {% include documents/kw.md category='proposed' %}
+
 
 <br/>
 
