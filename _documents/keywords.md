@@ -24,6 +24,8 @@ years:
 ##### Detector keywords
 {% include documents/kw.md category='detector' %}
 
+<a id="software"></a>
+
 ---
 
 ##### Software keywords
