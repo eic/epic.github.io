@@ -29,7 +29,9 @@ years:
 ##### Software keywords
 {% include documents/kw.md category='software' %}
 
----
+<br/>
+
+{{ site.hr }}
 
 ##### Proposed misc keywords
 
@@ -42,6 +44,6 @@ all keywords in lowercase, and avoid composite keywords (e.g. _A-B_).
 {% include documents/kw.md category='proposed' %}
 
 
-<br/>
+
 
 ---

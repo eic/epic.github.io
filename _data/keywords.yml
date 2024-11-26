@@ -43,16 +43,17 @@
   category: documents
 
 # detector
-- name: detector
-  description: Related to the ePIC detectors as a whole
+
+- name: bic
+  description: 'BIC DSC activities'
   category: detector
 
 - name: calorimetry
   description: ePIC calorimetry
   category: detector
 
-- name: tracking
-  description: Related to the tracking CC WG
+- name: detector
+  description: Related to the ePIC detectors as a whole
   category: detector
 
 - name: emcal
@@ -79,6 +80,20 @@
   description: 'dRICH DSC activities'
   category: detector
 
+- name: lfhcal
+  description: 'LFHCAL DSC activities'
+  category: detector
+
+- name: luminosity
+  description: 'Luminosity system activities'
+  upload: no
+  category: detector
+
+- name: lumhps
+  description: 'Luminosity system activities, pair spectrometers'
+  upload: no
+  category: detector
+
 - name: pfrich
   description: 'pfRICH DSC activities'
   category: detector
@@ -87,16 +102,24 @@
   description: 'hpDIRC DSC activities'
   category: detector
 
+- name: svt
+  description: 'SVT DSC activities'
+  upload: no  
+  category: detector
+
 - name: tof
   description: 'ToF DSC activities'
+  upload: no
   category: detector
+
+- name: tracking
+  description: Related to the tracking CC WG
+  upload: no
+  category: detector
+
 
 - name: zdc
   description: 'ZDC activities'
-  category: detector
-
-- name: luminosity
-  description: 'Luminosity system activities'
   category: detector
 
 
@@ -221,15 +244,6 @@
   description: 'Additional tag for hardware-oriented activity (lab, testbeam, irradiation, engineering etc)'
   category: proposed
 
-- name: simulation
-  description: 'Additional tag for simulation-oriented detector activity'
-  category: proposed
-
-- name: svt
-  description: 'SVT DSC activities'
-  category: proposed
-
-
 ## Commented out as per Ernst's request.
 # - name: vertex
 #   description: 'SVT DSC activities, vertex layers'
@@ -259,16 +273,8 @@
   description: 'FEMCAL DSC activities'
   category: proposed
 
-- name: bic
-  description: 'BIC DSC activities'
-  category: proposed
-
 - name: eeemcal
   description: 'EEEMCAL DSC activities'
-  category: proposed
-
-- name: lfhcal
-  description: 'LFHCAL DSC activities'
   category: proposed
 
 - name: lfhcalinsert
@@ -301,13 +307,6 @@
 
 - name: lowq2
   description: 'Low Q^2 taggers activities'
-  category: proposed
-
-
-# Proposed software keywords
-
-- name: lumhps
-  description: 'Luminosity system activities, pair spectrometers'
   category: proposed
 
 
