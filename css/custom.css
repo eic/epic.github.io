@@ -10,6 +10,13 @@ table.plain tr {
     /* border-bottom: 1px dotted; */
 }
 
+table.plain td {
+    text-align: left;
+}
+
+table.plain th {
+    text-align: left;
+}
 
 /* ---------------------------- */
 /* BLOCKQUOTES */

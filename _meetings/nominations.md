@@ -7,11 +7,23 @@ layout: default
 
 {% include layouts/title.md %}
 
-{% assign nominations=site.data.keywords | where_exp: "item", "item.category=='conference'" | sort: "name" %}
+{% assign conferences=site.data.keywords | where_exp: "item", "item.category=='conference'" | sort: "name" %}
 
-{% for nom in nominations %}
-{% if nom.nominations %}
-{{ nom.nominations.name }}
+{% for conf in conferences %}
+{% if conf.nominations %}
+
+##### {{ conf.description }}
+
+{% include layouts/simple_table_nom.md data=conf.nominations %}
+
+---
 
 {% endif %}
 {% endfor %}
+
+
+{% comment %}
+{% for nom in conf.nominations %}
+{{ nom.name }}
+{% endfor %}
+{% endcomment %}
