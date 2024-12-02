@@ -397,6 +397,9 @@
 - name: chep2024
   description: The 27th International Conference on Computing in High-Energy and Nuclear Physics (2024)
   category:  conference
+  nominations:
+    name: Sakib Rakhman
+    title: The ePIC Simulation Campaign Workflow on the Open Science Grid
   year: 2024
   url: 'https://indico.cern.ch/event/1338689/'
 

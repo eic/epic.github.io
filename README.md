@@ -23,4 +23,22 @@ WG descriptions are now kept in the file _wg.yml_ in the *_data_* folder
 
 * Keywords (a stub)
 
+### Filtering
+
+Work in progress, examples:
+```
+{% assign nominations=site.data.keywords | where_exp: "item", "item.category=='conference'" | where_exp: "item", "item.year==2024" %}
+
+{% comment %}
+{% assign nom= nom | where: "nominations" %}
+{% endcomment %}
+
+{% for nom in nominations %}
+{% if nom.nominations %}
+{{ nom.nominations.name }}
+
+{% endif %}
+{% endfor %}
+```
+
 
