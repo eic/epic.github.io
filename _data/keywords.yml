@@ -341,6 +341,13 @@
 - name: poetic2025
   description: The 11th international conference on the Physics Opportunities at an Electron-Ion Collider (2025)
   category: conference
+  nominations:
+    - name: Derek Glazier
+      title: Hadron Spectroscopy with the EIC
+    - name: Sylvester Joosten
+      title: ePIC Detector Overview
+
+
   upload: no
   year: 2025
   url: 'https://indico.jlab.org/event/871/'
@@ -398,8 +405,21 @@
   description: The 27th International Conference on Computing in High-Energy and Nuclear Physics (2024)
   category:  conference
   nominations:
-    name: Sakib Rakhman
-    title: The ePIC Simulation Campaign Workflow on the Open Science Grid
+    - name: Sakib Rakhman
+      title: The ePIC Simulation Campaign Workflow on the Open Science Grid
+
+    - name: Nathan Brei
+      title: Reconstruction Framework Advancements for Streaming Readout for the ePIC Experiment at the EIC
+
+    - name: Dmitry Kalinkin
+      title: Collaborative Software and Maintainability for ePIC Experiment at EIC
+
+    - name: Wouter Deconinck
+      title: 'Cache Rules Everything Around Me: Building ePIC Containers With Spack'
+
+    - name: Maxim Potekhin
+      title: Collaborative Tools for the ePIC Experiment
+
   year: 2024
   url: 'https://indico.cern.ch/event/1338689/'
 
