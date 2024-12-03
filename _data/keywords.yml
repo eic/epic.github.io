@@ -52,6 +52,10 @@
   description: ePIC calorimetry
   category: detector
 
+- name: coordinate
+  description: Coordinate System
+  category: detector
+
 - name: detector
   description: Related to the ePIC detectors as a whole
   category: detector
