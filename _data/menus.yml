@@ -165,6 +165,9 @@
   - name: conf
     full: 'Conferences & Workshops'
 
+  - name: nominations
+    full: 'Speaker Nominations'
+
 # Move to "collaboration"?
   - name: reviews
     full: Reviews

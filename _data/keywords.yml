@@ -366,12 +366,12 @@
 
 # 2024
 
-- name: laubach2024
-  description: Workshop on the structure and spectroscopy of hadrons with relation to the EIC and JLab22
-  category: conference
+- name: aum2024
+  description: The RHIC/AGS Users Meeting (2024)
+  category:  conference
   upload: no
   year: 2024
-  url: ''
+  url: 'https://indico.bnl.gov/event/22687/'
 
 - name: him2024
   description: 2024 3rd Heavy-ion meeting (HIM) - Researches on the future accelerators and colliders
@@ -385,13 +385,6 @@
   category: conference
   year: 2024
   url: 'https://indico.phy.ornl.gov/event/510/'
-
-- name: aum2024
-  description: The RHIC/AGS Users Meeting (2024)
-  category:  conference
-  upload: no
-  year: 2024
-  url: 'https://indico.bnl.gov/event/22687/'
 
 - name: epic2024winter
   description: The ePIC Collaboration Meeting, winter 2024
@@ -447,6 +440,18 @@
   year: 2024
   url: 'https://indico.cern.ch/event/1298458/'
 
+
+- name: hadrphys2030
+  description: Hadron Physics 2030 (2024)
+  category: conference
+  nominations:
+    - name: Daria Sokhan
+      title: Hadron Structure at EIC
+  upload: no
+  year: 2024
+  url: 'https://indico.ijclab.in2p3.fr/event/10641/'
+
+
 - name: hp2024
   description: The 12th International Conference on Hard and EM Probes of High-Energy Nuclear Collisions (2024)
   category: conference
@@ -467,6 +472,13 @@
   upload: no  
   year: 2024
   url: 'https://www.int.washington.edu/programs-and-workshops/24-2b'
+
+- name: laubach2024
+  description: Workshop on the structure and spectroscopy of hadrons with relation to the EIC and JLab22
+  category: conference
+  upload: no
+  year: 2024
+  url: ''
 
 - name: lhcp2024
   description: The 12th Large Hadron Collider Physics Conference - LHCP (2024)
