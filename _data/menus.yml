@@ -108,6 +108,13 @@
     - name: technical_coordination
       full: Technical Coordination
 
+    - name: separator
+      label: yes
+      full: ' '
+
+    - name: detector_integration
+      full: Detector Integration
+
     - name: dsc
       full: DSCs
 
