@@ -129,6 +129,59 @@
   roles: [convener]
   teams: learning
 
+- name: torri_jeske
+  full: Torri Jeske
+  email: roark@jlab.org
+  roles: [convener]
+  teams: validation
+
+- name: dmitry_kalinkin
+  full: Dmitry Kalinkin
+  email: dmitry.kalinkin@gmail.com
+  roles: [convener]
+  teams: validation
+
+- name: chao_peng
+  full: Chao Peng
+  email: pengc2010@gmail.com
+  roles: [convener]
+  teams: simulation
+
+- name: kauder
+  full: Kolja Kauder
+  email: kkauder@gmail.com
+  roles: [convener]
+  teams: [simulation]
+
+- name: shujie_li
+  full: Shujie Li
+  email: shujieli@lbl.gov
+  roles: [convener]
+  teams: reconstruction
+
+- name: derek_anderson
+  full: Derek Anderson
+  email: dmawxc@iastate.edu
+  roles: [convener]
+  teams: reconstruction
+
+- name: marco_battaglieri
+  full: Marco Battaglieri
+  email: battaglieri@ge.infn.it
+  roles: [convener]
+  teams: streaming
+
+- name: jin_huang
+  full: Jin Huang
+  email: jhuang@bnl.gov
+  roles: [convener]
+  teams: streaming
+
+- name: jeff_landgraf
+  full: Jeff Landgraf
+  email: jml@bnl.gov
+  roles: [convener]
+  teams: streaming
 
 # Other entries
 - name: bressan
@@ -160,12 +213,6 @@
   email: jinlong.zhang@stonybrook.edu
   roles: 
   teams: [collaborative]
-
-- name: kauder
-  full: Kolja Kauder
-  email: kkauder@gmail.com
-  roles: 
-  teams: [eicsmear]
 
 - name: kiselev
   full: Alexander Kiselev

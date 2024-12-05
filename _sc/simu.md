@@ -1,8 +1,7 @@
 ---
-title: Simulations
-name: simu
+title: Physics and Simulations Working Group
+name: simulation
 layout: default
 ---
-{% include layouts/title.md %}
 
-TBD: _Simulations_.
+{% include layouts/wg_top.md %}
