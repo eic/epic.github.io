@@ -142,6 +142,16 @@
     - name: projects
       full: Projects
 
+    - name: wg
+      label: yes
+      full: ' Working Groups'
+
+    - name: production
+      full: Production
+
+    - name: learning
+      full: User Learning
+
     - name: separator
       label: yes
       full: ' '

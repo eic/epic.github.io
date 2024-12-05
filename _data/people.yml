@@ -91,13 +91,8 @@
   roles: [convener]
   teams: 
 
-# Other entries
-- name: bressan
-  full: Andrea Bressan
-  email: Andrea.Bressan@ts.infn.it
-  roles: [convener]
-  teams: 
-  
+
+# Software and Computing
 - name: diefenthaler
   full: Markus Diefenthaler
   email: mdiefent@jlab.org
@@ -107,6 +102,38 @@
 - name: wenaus
   full: Torre Wenaus
   email: wenaus@gmail.com
+  roles: [convener]
+  teams: 
+
+- name: sakib_rahman
+  full: Sakib Rahman
+  email: srahman1@bnl.gov
+  roles: [convener]
+  teams: production
+
+- name: thomas_britton
+  full: Thomas Britton
+  email: tbritton@jlab.org
+  roles: [convener]
+  teams: production
+
+- name: holly_szumilla
+  full: Holly Szumilla-Vance
+  email: hszumila@jlab.org
+  roles: [convener]
+  teams: learning
+
+- name: stephen_kay
+  full: Stephen Kay
+  email: stephen.kay@york.ac.uk
+  roles: [convener]
+  teams: learning
+
+
+# Other entries
+- name: bressan
+  full: Andrea Bressan
+  email: Andrea.Bressan@ts.infn.it
   roles: [convener]
   teams: 
 
