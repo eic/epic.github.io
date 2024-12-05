@@ -133,12 +133,6 @@
     - name: tutorials
       full: Tutorials
 
-    - name: reco
-      full: Reconstruction
-
-    - name: simu
-      full: Simulations
-
     - name: projects
       full: Projects
 
@@ -152,12 +146,24 @@
     - name: learning
       full: User Learning
 
-    - name: separator
-      label: yes
-      full: ' '
+    - name: validation
+      full: Validation
 
-    - name: resources
-      full: Resources
+    - name: simulation
+      full: Simulation
+
+    - name: reconstruction
+      full: Reconstruction
+
+    - name: streaming
+      full: Streaming Computing
+
+    # - name: separator
+    #   label: yes
+    #   full: ' '
+
+    # - name: resources
+    #   full: Resources
 
 
 #       div: yes

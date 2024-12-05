@@ -1,6 +1,6 @@
 ---
-title: Reconstruction
-name: reconstruction
+title: Streaming Computing Model
+name: streaming
 layout: default
 ---
 
