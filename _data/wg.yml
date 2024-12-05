@@ -1,7 +1,7 @@
 # PHYSICS
 - name:               inclusive
   description:        'Inclusive'
-  mission_statement:  'The inclusive physics working group evaluates the ability of the ePIC detector to observe inclusive processes.  As this largely relies on detecting the scattered beam electron, the inclusive PWG is contributing significantly to the development of electron identification and reconstruction algorithms.  Inclusive kinematics can also be reconstructed using information from the hadronic final state, and therefore the inclusive PWG is also contributing to hadronic reconstruction algorithms.  Evaluating the resolutions of multiple reconstruction methods across the ePIC acceptance will allow maximal exploitation of ePICs capabilities.  Last but not least, the inclusive PWG is benchmarking ePIC performance by extracting key inclusive physics observables, namely reduced cross sections (NC and CC) and double-spin asymmetries.'
+  mission_statement:  'The inclusive physics working group evaluates the ability of the ePIC detector to observe inclusive processes. As this largely relies on detecting the scattered beam electron, the inclusive PWG is contributing significantly to the development of electron identification and reconstruction algorithms. Inclusive kinematics can also be reconstructed using information from the hadronic final state, and therefore the inclusive PWG is also contributing to hadronic reconstruction algorithms. Evaluating the resolutions of multiple reconstruction methods across the ePIC acceptance will allow maximal exploitation of ePICs capabilities. Last but not least, the inclusive PWG is benchmarking ePIC performance by extracting key inclusive physics observables, namely reduced cross sections (NC and CC) and double-spin asymmetries.'
   conveners:          tyler_kutz, stephen_maple
   list:               'eic-projdet-Inclusive-l@lists.bnl.gov'
   list_sub:           'https://lists.bnl.gov/mailman/listinfo/eic-projdet-inclusive-l'
@@ -53,3 +53,29 @@
   mattermost:         'https://chat.epic-eic.org/main/channels/ew-bsm'
   wiki:               'https://wiki.bnl.gov/EPIC/index.php?title=BSMEW'
   meetings:           'Wednesdays at 10:00 pm ET (bi-weekly)'
+
+# SOFTWARE AND COMPUTING
+- name:               production
+  description:        'Production Working Group'
+  mission_statement:  'The production working group is responsible for managing all apects of continuous production activity by the ePIC experiment, including simulation and reconstruction.'
+  conveners:          sakib_rahman, thomas_britton
+  indico:             'https://indico.bnl.gov/category/463/'
+
+- name:               learning
+  description:        'User Learning Working Group'
+  mission_statement:  'The User Learning working group is responsible for managing the process of onboarding and continued learning of the ePIC members, in the field of software and computing.'
+  conveners:          holly_szumilla, stephen_kay
+  indico:             'https://indico.bnl.gov/category/443/'
+
+
+#####   DO NOT DELETE -- REFERENCE TEMPLATE
+#- name:               name
+#  description:        'Description Working Group'
+#  mission_statement:  'The work we do.'
+#  conveners:          person1, person2
+#  list:               'mailing-list'
+#  list_sub:           'subscrtibe link'
+#  indico:             'https://indico.bnl.gov/blah'
+#  mattermost:         ''
+#  wiki:               ''
+#  meetings:           ''
