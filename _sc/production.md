@@ -2,7 +2,7 @@
 title: Production Working Group
 description: Production Working Group
 name: production
-layout: default
+layout: public
 ---
 
 {% include layouts/wg_top.md %}
