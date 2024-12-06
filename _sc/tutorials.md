@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 name: tutorials
-layout: default
+layout: public
 ---
 
 {% include layouts/title.md %}

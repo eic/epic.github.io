@@ -2,7 +2,7 @@
 title: User Learning Working Group
 description: User Learning Working Group
 name: learning
-layout: default
+layout: public
 ---
 
 {% include layouts/wg_top.md %}

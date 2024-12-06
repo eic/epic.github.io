@@ -1,7 +1,7 @@
 ---
 title: Resources
 name: resources
-layout: default
+layout: public
 ---
 {% include layouts/title.md %}
 
