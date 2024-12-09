@@ -1,7 +1,7 @@
 ---
 title: Reconstruction
 name: reconstruction
-layout: public
+layout: default
 ---
 
 {% include layouts/wg_top.md %}

@@ -2,7 +2,7 @@
 title: Validation Working Group
 description: Validation Working Group
 name: validation
-layout: public
+layout: default
 ---
 
 {% include layouts/wg_top.md %}

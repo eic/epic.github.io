@@ -193,10 +193,10 @@
       full: Overview
 
     - name: tutorials
-      full: Tutorials
+      full: Software Tutorials
 
     - name: projects
-      full: Projects
+      full: Common Software Projects
 
     - name: wg
       label: yes
