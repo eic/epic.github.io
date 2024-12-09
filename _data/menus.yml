@@ -192,6 +192,9 @@
     - name: sc_overview
       full: Overview
 
+    - name: evdisp
+      full: Event Display
+
     - name: tutorials
       full: Software Tutorials
 
