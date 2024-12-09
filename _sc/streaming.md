@@ -1,7 +1,7 @@
 ---
 title: Streaming Computing Model
 name: streaming
-layout: public
+layout: default
 ---
 
 {% include layouts/wg_top.md %}

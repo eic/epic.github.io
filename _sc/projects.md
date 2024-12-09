@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Common Software Projects
 name: projects
-layout: public
+layout: default
 ---
 
 {% include layouts/title.md %}

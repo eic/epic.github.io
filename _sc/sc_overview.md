@@ -1,7 +1,7 @@
 ---
 title: ePIC Software and Computing -- an overview
 name: sc_overview
-layout: public
+layout: default
 ---
 {% include layouts/title.md %}
 
