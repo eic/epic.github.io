@@ -13,3 +13,8 @@ layout: default
 * Deputy Software and Computing Coordinator (Development): Dmitry Kalinkin <dmitry.kalinkin@gmail.com>
 * Deputy Software and Computing Coordinator (Infrastructure): Torre Wenaus <wenaus@gmail.com>
 
+##### Useful links (landing page)
+
+* [Getting Started](/sc/getstarted.html)
+* [Tutorials](/sc/tutorials.html)
+* [FAQ](/sc/faq.html)
