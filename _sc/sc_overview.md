@@ -52,6 +52,7 @@ deputies:
 
 ##### Useful links (landing page)
 
+* Software and Computing mailing list: [eic-projdet-compsw-l@lists.bnl.gov](mailto:eic-projdet-compsw-l@lists.bnl.gov) ([subscribe here](https://lists.bnl.gov/mailman/listinfo/eic-projdet-compsw-l){:target="_blank"})
 * [Getting Started](/sc/getstarted.html)
 * [Tutorials](/sc/tutorials.html)
 * [HEP Software Training Center](https://hsf-training.org/training-center){:target="_blank"}
