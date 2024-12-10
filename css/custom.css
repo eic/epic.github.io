@@ -1,7 +1,8 @@
 /* plain table */
 
 .plain {
-
+    margin-right:auto;
+    margin-left:0px
 }
 
 table.plain tr {

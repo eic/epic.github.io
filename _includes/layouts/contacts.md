@@ -1,7 +1,7 @@
 
-<table class="plain">
+<table class="plain" width="100%">
 {% for c in include.people %}
-<tr><td>&nbsp;</td><td>&#x25cf;&nbsp; {{ c.name }}</td><td><a href="mailto:{{ c.email }}">{{ c.email }}</a></td></tr>
+<tr><td>&#x25cf; {{ c.name }}</td><td><a href="mailto:{{ c.email }}">{{ c.email }}</a></td></tr>
 {% endfor %}
 </table>
 
