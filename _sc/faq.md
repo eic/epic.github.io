@@ -83,9 +83,63 @@ changes introduced in December campaign. As of December, 2023 we have also began
 ---
 
 ##### Q: How can we effectively use the information stored in EICRecon rootfile outputs, such as matching reconstructed particles to their MC particles?
-**A:** To an extent, this is covered in the [dRICH tutorials](https://github.com/eic/drich-dev/blob/tutorial/doc/tutorials/3-running-reconstruction.md){:target="_blank"}, starting at session 3 and partly covered in existing [recorded tutorials](https://indico.bnl.gov/event/18373/){:target="_blank"}. **TODO:** Probably needs to be supplemented with example codes.
+**A:** To an extent, this is covered in the [dRICH tutorials](https://github.com/eic/drich-dev/blob/tutorial/doc/tutorials/3-running-reconstruction.md){:target="_blank"}, starting at session 3 and partly covered in existing [recorded tutorials](https://indico.bnl.gov/event/18373/){:target="_blank"}. _TODO:_ Probably needs to be supplemented with example codes.
 
 ---
 
 ##### Q: How can we apply beam effects, including adjusting the ion beam when using a particle gun?
-**A:** Beam effects are handled by the [afterburner](https://github.com/eic/afterburner){:target="_blank"}, which expects HepMC3 input. They cannot be simply turned on in just the npsim particle gun. 
+**A:** Beam effects are handled by the [afterburner](https://github.com/eic/afterburner){:target="_blank"}, which expects HepMC3 input. They cannot be simply turned on in just the npsim particle gun.
+
+---
+
+##### Q: How do we check and change beam magnet settings for both simulation and reconstruction?
+**A:**  _TODO:_ Changing magnet configuration in reconstruction makes little sense. Checking and changing it for simulation should be answered by the prod group.
+
+---
+
+##### Q: What is the best practice for analyzing EICrecon output, especially regarding hadron PID likelihoods?
+
+**A:**  _TODO:_ Needs an updated analysis tutorial. I don't believe at this point we have a simple unified PID likelihood approach.
+
+---
+
+##### Q: How can we develop a benchmark for an analysis code to pass on to the validation software team?
+
+**A:** _TODO:_ We originally planned a dedicated "Tutorial: Writing physics benchmarks that run automatically and reproducibly" - this needs to be revisited. Otherwise, Dmitry K, Wouter, Sylvester may be able to write up something short. This is a good FAQ candidate really, if we can get this answered.
+
+---
+
+##### Q: How can we access various (SI)DIS variables through different reconstruction methods?
+
+**A:** _TODO:_ Things like ``InclusiveKinematicsDA.cc`` are part of EicRecon, but I don't know how to use it. I don't believe it's calculated by default during campaigns, so one would still need an analysis level version. Would be good example analysis code, and I'm sure it exists in many forms on various people's laptops.
+
+---
+
+##### Q: How do we match tracks and clusters from the calorimeters?
+
+---
+
+##### Q: How can we access hadron and electron PID data?
+
+---
+
+##### Q: How do we navigate from reconstructed to truth information?
+
+**A:** Needs a refreshed tutorial; needs example code
+
+---
+
+##### Q: Is there an organized repository or wiki that guides newcomers to the right tutorials and slides?
+
+**A:** Yes, but the dRICH one is closest, plus the tutorials indico. _TODO:_ Should be combined and front and center of the landing page.
+
+---
+
+##### Q: Are there quick starter-code examples (Analyzer macros) for accessing branch information and creating physics plots?
+
+**A:** _TODO:_ Yes, but not well organized and more is better.
+
+---
+
+##### Q: Can you provide an example of analyzing EICrecon data using basic methods?
+**A:** [https://indico.bnl.gov/event/18373/](https://indico.bnl.gov/event/18373/){:target="_blank"} has some, so does the dRICH tutorial. _TODO:_ Needs more example code.
