@@ -5,7 +5,7 @@ layout: default
 
 coordinator:
 
-    - name:     Silvia Dalla Torre
+    - name:     Silvia Dalla Torre&nbsp;
       email:    Silvia.DallaTorre@cern.ch
 
 deputies:
