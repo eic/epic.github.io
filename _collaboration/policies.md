@@ -9,11 +9,11 @@ layout: default
 ##### Current
 
 * The [Membership Policy](https://zenodo.org/records/13693927){:target="_blank"} adopted by Council August 2024 (restricted to members).
-* The [ePIC Conference and Talks Policy](https://zenodo.org/records/14052729){:target="_blank"} adopted by Council November 7, 2024 (restricted to members).
+* The [Conference and Talks Policy](https://zenodo.org/records/14052729){:target="_blank"} adopted by Council November 7, 2024 (restricted to members).
+* The [Code of Conduct](https://zenodo.org/records/14617833){:target="_blank"} adopted by Council December 23, 2024 (restricted to members).
 
 
 ##### Work in Progress
 
-* DEI/Code of Conduct (in preparation)
 * Result Approval Policy (in preparation)
 * Publication Policy (in preparation)
