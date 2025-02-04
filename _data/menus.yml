@@ -40,6 +40,10 @@
     - name: outreach
       full: Outreach
 
+    - name: travel_support
+      full: Travel Support
+
+
     - name: diversity
       full: Diversity Office
 
