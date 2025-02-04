@@ -29,7 +29,7 @@ The Collaboration Council (CC) is the governing body of the ePIC Collaboration o
 
 ##### News, Upcoming Events
 
-The last CC meeting will took place on Thursday, January 23 ([Indico page](https://indico.bnl.gov/event/25666/){:target="_blank"})
+The last CC meeting took place on Thursday, January 23 ([Indico page](https://indico.bnl.gov/event/25666/){:target="_blank"})
 
 ---
 
