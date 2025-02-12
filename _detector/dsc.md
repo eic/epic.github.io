@@ -54,14 +54,15 @@ layout: default
 
 ### Si Trackers
 * DSL: Ernst Sichtermann <epsichtermann@lbl.gov>
-* DSTC: Laura Gonella <laura.gonella@cern.ch>
+* Co-DSTC: Laura Gonella <laura.gonella@cern.ch>
+* Co-DSTC: Georg Viehhauser <georg.viehhauser@physics.ox.ac.uk>
 
 ---
 
 ### Gaseous Trackers
 * DSL: Kondo Gnanvo <kagnanvo@jlab.org>
 * DSTC: Annalisa D'Angelo <annalisa@roma2.infn.it>
-* DSTC: Francesco Bossu <francesco.bossu@cea.fr>
+* DSTC: Maxence Vandenbroucke <maxence.vandenbroucke@cea.f>r
 
 ---
 
@@ -79,8 +80,7 @@ layout: default
 ### Barrel ECAL
 * Co-DSL's: Sylvester Joosten <sjoosten@anl.gov>, Hwidong Yoo <hdyoo@yonsei.ac.kr>
 * Deputy DSL: Zurek, Maria <zurek@anl.gov>
-* DSTC (Si): Manoj Jadhav <mjadhav@anl>
-* DSTC (Scifi/Pb): Zisis Papandreou <zisis@uregina.ca>
+* DSTC: Jessice Metcalfe <jessica.metcalfe@gmail.com>
 
 ---
 
