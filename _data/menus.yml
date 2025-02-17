@@ -205,6 +205,9 @@
     - name: projects
       full: Common Software Projects
 
+    - name: decision
+      full: Software Decision Process
+
     - name: wg
       label: yes
       full: ' Working Groups'
