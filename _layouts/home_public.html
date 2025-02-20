@@ -5,17 +5,42 @@ layout: public
   <div class="col-md-10 blog-main">
 
     <hr>
+
+    <center>
+    <video autoplay muted loop width="80%">
+      <source src="https://www.bnl.gov/eic/videos/epic-rotation.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </center>
+
     <center>
       <div class=row>
 	
-        <div class="col-md-5"><img src="{{ site.splash_public | relative_url }}"   style="width:100%;height:auto"/></div>
-	
-        <div class="col-md-5">
+        <!-- div class="col-md-5"><img src="{{ site.splash_public | relative_url }}"   style="width:100%;height:auto"/></div -->
+        <!-- div class="col-md-5">      </div -->
+
+
+        <!-- div class="col-md-5">
           <p class="lead">
 
 	  </p>
-	</div> <!-- class md5 -->
+	</div -->
+  
+  <!-- class md5 -->
       </div> <!-- class row -->
+
+
+      {{ site.hr }}
+
+      <table width="80%"><tr>
+        <td><div style="text-align:left;">
+            &copy;2024 ePIC Collaboration
+        </div></td>
+        
+        <td><div style="text-align:right;">
+          <em>Site built at {{ site.time }}</em>
+        </div></td>
+            </tr></table>
 
     </center> <!-- class sm12 blog main -->
 
@@ -24,14 +49,6 @@ layout: public
     {% endif %}
 
 
-    <table width="100%"><tr>
-<td><div style="text-align:left;">
-    &copy;2024 ePIC Collaboration
-</div></td>
 
-<td><div style="text-align:right;">
-  <em>Site built at {{ site.time }}</em>
-</div></td>
-    </tr></table>
 
   </div> <!-- class row -->
