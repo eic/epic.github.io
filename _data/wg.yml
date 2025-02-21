@@ -58,6 +58,10 @@
 - name:               production
   description:        'Production Working Group'
   mission_statement:  'The production working group is responsible for managing all apects of continuous production activity by the ePIC experiment, including simulation and reconstruction.'
+  priorities:         'Ensuring smooth operation of the current simulation campaigns'
+  useful_links:
+  - 'ePIC Production Status Page, https://eic.github.io/epic-prod/'
+  get_involved:       'Please contact the conveners for more information'
   conveners:          sakib_rahman, thomas_britton
   indico:             'https://indico.bnl.gov/category/463/'
 
