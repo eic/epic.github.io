@@ -160,6 +160,9 @@
     - name: keywords
       full: Keywords
 
+    - name: note_process
+      full: Ana/Tech Note Submission
+
     - name: separator
       label: yes
       full: ' '
