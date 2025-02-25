@@ -321,6 +321,13 @@
 
 # 2025
 
+- name: dis2025
+  description: The XXXII International Workshop on Deep Inelastic Scattering (2025)
+  category: conference
+  upload: no
+  year: 2025
+  url: 'https://indico.cern.ch/event/1436959/'
+
 - name: epic2025winter
   description: The ePIC Collaboration Meeting, winter 2025
   category: conference
