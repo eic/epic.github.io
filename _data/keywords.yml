@@ -321,6 +321,13 @@
 
 # 2025
 
+- name: hotQuark2025
+  description: Hot Quarks 2025
+  category: conference
+  upload: no
+  year: 2025
+  url: 'https://indico.cern.ch/event/1467925/'
+  
 - name: dis2025
   description: The XXXII International Workshop on Deep Inelastic Scattering (2025)
   category: conference
