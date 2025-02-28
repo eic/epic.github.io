@@ -92,7 +92,7 @@ layout: default
 
 ### Barrel HCAL
 * Co-DSL: Stefan Bathe <stefan.bathe@baruch.cuny.edu>
-* Co-DSL: Megan Connors <mconnors@gsu.edu>
+* Co-DSL: Murad Sarsour <msar@gsu.edu>
 
 ---
 
